@@ -1,0 +1,1953 @@
+Category_Name,Product_Name,Level_Used,Model,Zero_Months,HW_RMSE_%
+Automotive,Automotive_Item_001,Product,Holt-Winters (Log),1,17.88
+Automotive,Automotive_Item_002,Product,Holt-Winters (Log),7,49.98
+Automotive,Automotive_Item_003,Product,Holt-Winters (Log),0,10.36
+Automotive,Automotive_Item_004,Product,Holt-Winters (Log),0,6.44
+Automotive,Automotive_Item_005,Product,Holt-Winters (Log),1,29.92
+Automotive,Automotive_Item_006,Product,Holt-Winters (Log),0,12.15
+Automotive,Automotive_Item_007,Product,Holt-Winters (Log),0,9.14
+Automotive,Automotive_Item_008,Product,Holt-Winters (Log),13,27.77
+Automotive,Automotive_Item_009,Product,Holt-Winters (Log),8,47.24
+Automotive,Automotive_Item_010,Category,SARIMA,11,67.78
+Automotive,Automotive_Item_011,Category,SARIMA,10,77.96
+Automotive,Automotive_Item_012,Product,Holt-Winters (Log),3,29.01
+Automotive,Automotive_Item_013,Category,SARIMA,26,89.57
+Automotive,Automotive_Item_014,Category,SARIMA,12,82.07
+Automotive,Automotive_Item_015,Category,SARIMA,12,66.33
+Automotive,Automotive_Item_016,Product,Holt-Winters (Log),10,42.57
+Automotive,Automotive_Item_017,Product,Holt-Winters (Log),2,36.89
+Automotive,Automotive_Item_018,Category,SARIMA,23,115.32
+Automotive,Automotive_Item_019,Product,Holt-Winters (Log),1,48.77
+Automotive,Automotive_Item_020,Product,Holt-Winters (Log),0,27.43
+Automotive,Automotive_Item_021,Product,Holt-Winters (Log),0,26.44
+Automotive,Automotive_Item_022,Category,SARIMA,11,50.01
+Automotive,Automotive_Item_023,Category,SARIMA,15,86.43
+Automotive,Automotive_Item_024,Category,SARIMA,10,79.65
+Automotive,Automotive_Item_025,Category,SARIMA,33,136.41
+Automotive,Automotive_Item_026,Category,SARIMA,19,52.72
+Automotive,Automotive_Item_027,Category,SARIMA,14,66.57
+Automotive,Automotive_Item_028,Category,SARIMA,26,122.46
+Automotive,Automotive_Item_029,Category,SARIMA,10,102.37
+Automotive,Automotive_Item_030,Product,Holt-Winters (Log),0,22.2
+Automotive,Automotive_Item_031,Product,Holt-Winters (Log),6,23.78
+Automotive,Automotive_Item_032,Category,SARIMA,15,62.73
+Automotive,Automotive_Item_033,Category,SARIMA,5,54.11
+Automotive,Automotive_Item_034,Product,Holt-Winters (Log),2,38.39
+Automotive,Automotive_Item_035,Product,Holt-Winters (Log),0,11.65
+Automotive,Automotive_Item_036,Product,Holt-Winters (Log),4,21.28
+Automotive,Automotive_Item_037,Category,SARIMA,9,69.42
+Automotive,Automotive_Item_038,Category,SARIMA,9,55.87
+Automotive,Automotive_Item_039,Category,SARIMA,18,69.26
+Automotive,Automotive_Item_040,Product,Holt-Winters (Log),0,7.93
+Automotive,Automotive_Item_041,Category,SARIMA,22,126.08
+Automotive,Automotive_Item_042,Product,Holt-Winters (Log),0,16.34
+Automotive,Automotive_Item_043,Product,Holt-Winters (Log),0,9.45
+Automotive,Automotive_Item_044,Product,Holt-Winters (Log),1,16.48
+Automotive,Automotive_Item_045,Product,Holt-Winters (Log),2,18.01
+Automotive,Automotive_Item_046,Category,SARIMA,17,141.21
+Automotive,Automotive_Item_047,Product,Holt-Winters (Log),0,14.95
+Automotive,Automotive_Item_048,Product,Holt-Winters (Log),1,22.49
+Automotive,Automotive_Item_049,Product,Holt-Winters (Log),1,27.21
+Automotive,Automotive_Item_050,Product,Holt-Winters (Log),0,24.84
+Automotive,Automotive_Item_051,Product,Holt-Winters (Log),0,10.92
+Automotive,Automotive_Item_052,Product,Holt-Winters (Log),4,10.0
+Automotive,Automotive_Item_053,Product,Holt-Winters (Log),0,16.33
+Automotive,Automotive_Item_054,Product,Holt-Winters (Log),0,10.98
+Automotive,Automotive_Item_055,Product,Holt-Winters (Log),0,8.1
+Automotive,Automotive_Item_056,Product,Holt-Winters (Log),2,42.92
+Automotive,Automotive_Item_057,Category,SARIMA,14,77.21
+Automotive,Automotive_Item_058,Product,Holt-Winters (Log),0,10.7
+Automotive,Automotive_Item_059,Product,Holt-Winters (Log),12,46.66
+Automotive,Automotive_Item_060,Product,Holt-Winters (Log),6,46.73
+Automotive,Automotive_Item_062,Product,Holt-Winters (Log),1,32.75
+Automotive,Automotive_Item_063,Category,SARIMA,22,98.17
+Automotive,Automotive_Item_064,Category,SARIMA,16,72.65
+Automotive,Automotive_Item_065,Product,Holt-Winters (Log),0,34.2
+Automotive,Automotive_Item_066,Product,Holt-Winters (Log),0,18.19
+Automotive,Automotive_Item_067,Product,Holt-Winters (Log),8,48.44
+Automotive,Automotive_Item_068,Product,Holt-Winters (Log),0,20.65
+Automotive,Automotive_Item_069,Product,Holt-Winters (Log),0,39.1
+Automotive,Automotive_Item_070,Product,Holt-Winters (Log),0,21.72
+Automotive,Automotive_Item_071,Product,Holt-Winters (Log),0,15.72
+Automotive,Automotive_Item_072,Product,Holt-Winters (Log),6,36.68
+Automotive,Automotive_Item_073,Category,SARIMA,7,77.98
+Automotive,Automotive_Item_074,Product,Holt-Winters (Log),1,36.01
+Automotive,Automotive_Item_075,Product,Holt-Winters (Log),0,25.57
+Automotive,Automotive_Item_076,Category,SARIMA,16,114.15
+Automotive,Automotive_Item_077,Product,Holt-Winters (Log),0,25.19
+Automotive,Automotive_Item_078,Product,Holt-Winters (Log),0,17.79
+Automotive,Automotive_Item_079,Product,Holt-Winters (Log),1,37.77
+Automotive,Automotive_Item_080,Product,Holt-Winters (Log),4,28.56
+Automotive,Automotive_Item_081,Product,Holt-Winters (Log),0,10.86
+Automotive,Automotive_Item_082,Product,Holt-Winters (Log),0,4.99
+Automotive,Automotive_Item_083,Product,Holt-Winters (Log),11,27.39
+Automotive,Automotive_Item_084,Category,SARIMA,5,57.96
+Automotive,Automotive_Item_085,Category,SARIMA,3,76.71
+Automotive,Automotive_Item_086,Product,Holt-Winters (Log),0,11.77
+Automotive,Automotive_Item_087,Product,Holt-Winters (Log),0,30.7
+Automotive,Automotive_Item_088,Product,Holt-Winters (Log),0,5.34
+Automotive,Automotive_Item_089,Product,Holt-Winters (Log),0,17.25
+Automotive,Automotive_Item_090,Product,Holt-Winters (Log),2,48.04
+Automotive,Automotive_Item_091,Product,Holt-Winters (Log),0,18.15
+Automotive,Automotive_Item_092,Product,Holt-Winters (Log),0,21.93
+Automotive,Automotive_Item_093,Product,Holt-Winters (Log),1,43.85
+Automotive,Automotive_Item_094,Product,Holt-Winters (Log),2,35.23
+Automotive,Automotive_Item_095,Product,Holt-Winters (Log),0,10.66
+Automotive,Automotive_Item_096,Product,Holt-Winters (Log),1,23.65
+Automotive,Automotive_Item_097,Product,Holt-Winters (Log),1,33.31
+Automotive,Automotive_Item_098,Category,SARIMA,6,50.7
+Automotive,Automotive_Item_100,Product,Holt-Winters (Log),0,12.85
+Automotive,Automotive_Item_101,Product,Holt-Winters (Log),0,16.61
+Automotive,Automotive_Item_102,Product,Holt-Winters (Log),0,24.58
+Automotive,Automotive_Item_103,Product,Holt-Winters (Log),0,15.92
+Automotive,Automotive_Item_104,Product,Holt-Winters (Log),0,21.43
+Automotive,Automotive_Item_105,Product,Holt-Winters (Log),0,21.52
+Automotive,Automotive_Item_106,Category,SARIMA,15,97.35
+Automotive,Automotive_Item_107,Product,Holt-Winters (Log),0,30.45
+Automotive,Automotive_Item_108,Category,SARIMA,1,59.02
+Automotive,Automotive_Item_109,Product,Holt-Winters (Log),4,26.35
+Automotive,Automotive_Item_110,Category,SARIMA,8,83.87
+Automotive,Automotive_Item_111,Product,Holt-Winters (Log),0,33.96
+Automotive,Automotive_Item_112,Category,SARIMA,2,66.72
+Automotive,Automotive_Item_113,Product,Holt-Winters (Log),2,26.34
+Automotive,Automotive_Item_114,Product,Holt-Winters (Log),6,46.96
+Automotive,Automotive_Item_115,Category,SARIMA,19,98.12
+Automotive,Automotive_Item_116,Category,SARIMA,19,88.47
+Automotive,Automotive_Item_117,Category,SARIMA,5,55.51
+Automotive,Automotive_Item_118,Category,SARIMA,14,114.45
+Automotive,Automotive_Item_119,Category,SARIMA,13,96.06
+Automotive,Automotive_Item_120,Category,SARIMA,30,126.66
+Automotive,Automotive_Item_121,Category,SARIMA,12,88.65
+Automotive,Automotive_Item_125,Category,SARIMA,24,130.4
+Automotive,Automotive_Item_126,Category,SARIMA,20,97.52
+Automotive,Automotive_Item_127,Product,Holt-Winters (Log),0,10.17
+Automotive,Automotive_Item_128,Product,Holt-Winters (Log),4,40.73
+Automotive,Automotive_Item_129,Category,SARIMA,19,129.16
+Automotive,Automotive_Item_130,Category,SARIMA,14,83.57
+Automotive,Automotive_Item_131,Category,SARIMA,15,58.8
+Automotive,Automotive_Item_132,Product,Holt-Winters (Log),0,15.13
+Automotive,Automotive_Item_133,Category,SARIMA,18,70.67
+Automotive,Automotive_Item_135,Category,SARIMA,9,72.77
+Automotive,Automotive_Item_136,Product,Holt-Winters (Log),0,17.22
+Automotive,Automotive_Item_137,Product,Holt-Winters (Log),0,15.54
+Automotive,Automotive_Item_138,Product,Holt-Winters (Log),0,9.75
+Automotive,Automotive_Item_139,Product,Holt-Winters (Log),0,19.46
+Automotive,Automotive_Item_140,Product,Holt-Winters (Log),2,37.77
+Automotive,Automotive_Item_142,Category,SARIMA,31,157.61
+Automotive,Automotive_Item_143,Product,Holt-Winters (Log),6,32.74
+Beauty,Beauty_Item_001,Category,SARIMA,5,59.13
+Beauty,Beauty_Item_002,Product,Holt-Winters (Log),1,42.66
+Beauty,Beauty_Item_003,Product,Holt-Winters (Log),0,13.84
+Beauty,Beauty_Item_004,Category,SARIMA,5,69.1
+Beauty,Beauty_Item_005,Product,Holt-Winters (Log),0,9.42
+Beauty,Beauty_Item_006,Category,SARIMA,22,111.81
+Beauty,Beauty_Item_007,Category,SARIMA,18,83.88
+Beauty,Beauty_Item_008,Product,Holt-Winters (Log),1,18.27
+Beauty,Beauty_Item_009,Product,Holt-Winters (Log),12,40.53
+Beauty,Beauty_Item_010,Category,SARIMA,4,52.45
+Beauty,Beauty_Item_011,Product,Holt-Winters (Log),6,36.02
+Beauty,Beauty_Item_012,Product,Holt-Winters (Log),0,15.01
+Beauty,Beauty_Item_013,Product,Holt-Winters (Log),5,21.31
+Beauty,Beauty_Item_014,Product,Holt-Winters (Log),5,44.58
+Beauty,Beauty_Item_015,Product,Holt-Winters (Log),0,20.5
+Beauty,Beauty_Item_016,Product,Holt-Winters (Log),4,40.31
+Beauty,Beauty_Item_018,Product,Holt-Winters (Log),0,24.83
+Beauty,Beauty_Item_019,Category,SARIMA,11,65.3
+Beauty,Beauty_Item_020,Product,Holt-Winters (Log),0,19.41
+Beauty,Beauty_Item_021,Category,SARIMA,15,77.33
+Beauty,Beauty_Item_022,Category,SARIMA,15,81.9
+Beauty,Beauty_Item_023,Product,Holt-Winters (Log),8,33.9
+Beauty,Beauty_Item_024,Category,SARIMA,17,91.93
+Beauty,Beauty_Item_025,Category,SARIMA,15,72.91
+Beauty,Beauty_Item_026,Category,SARIMA,1,53.34
+Beauty,Beauty_Item_028,Product,Holt-Winters (Log),0,7.4
+Beauty,Beauty_Item_029,Product,Holt-Winters (Log),0,29.83
+Beauty,Beauty_Item_030,Category,SARIMA,7,64.04
+Beauty,Beauty_Item_031,Category,SARIMA,24,70.68
+Beauty,Beauty_Item_032,Category,SARIMA,6,53.59
+Beauty,Beauty_Item_033,Product,Holt-Winters (Log),0,8.53
+Beauty,Beauty_Item_034,Product,Holt-Winters (Log),1,24.86
+Beauty,Beauty_Item_035,Product,Holt-Winters (Log),0,27.4
+Beauty,Beauty_Item_036,Category,SARIMA,10,57.48
+Beauty,Beauty_Item_037,Category,SARIMA,25,103.51
+Beauty,Beauty_Item_038,Product,Holt-Winters (Log),0,7.98
+Beauty,Beauty_Item_039,Product,Holt-Winters (Log),0,16.92
+Beauty,Beauty_Item_040,Category,SARIMA,7,116.63
+Beauty,Beauty_Item_041,Category,SARIMA,27,107.88
+Beauty,Beauty_Item_042,Category,SARIMA,7,54.03
+Beauty,Beauty_Item_043,Category,SARIMA,9,69.87
+Beauty,Beauty_Item_044,Product,Holt-Winters (Log),0,32.93
+Beauty,Beauty_Item_045,Category,SARIMA,1,54.66
+Beauty,Beauty_Item_046,Product,Holt-Winters (Log),2,46.43
+Beauty,Beauty_Item_047,Category,SARIMA,22,82.26
+Beauty,Beauty_Item_048,Product,Holt-Winters (Log),0,10.31
+Beauty,Beauty_Item_049,Category,SARIMA,4,56.03
+Beauty,Beauty_Item_050,Category,SARIMA,0,55.98
+Beauty,Beauty_Item_051,Category,SARIMA,12,69.62
+Beauty,Beauty_Item_052,Product,Holt-Winters (Log),9,47.66
+Beauty,Beauty_Item_053,Category,SARIMA,15,86.77
+Beauty,Beauty_Item_054,Product,Holt-Winters (Log),4,38.35
+Beauty,Beauty_Item_055,Product,Holt-Winters (Log),0,26.73
+Beauty,Beauty_Item_056,Product,Holt-Winters (Log),0,14.51
+Beauty,Beauty_Item_057,Product,Holt-Winters (Log),8,35.42
+Beauty,Beauty_Item_058,Product,Holt-Winters (Log),0,26.71
+Beauty,Beauty_Item_060,Category,SARIMA,15,52.97
+Beauty,Beauty_Item_062,Product,Holt-Winters (Log),0,24.28
+Beauty,Beauty_Item_063,Product,Holt-Winters (Log),0,25.31
+Beauty,Beauty_Item_064,Category,SARIMA,15,71.61
+Books,Books_Item_002,Category,SARIMA,20,112.12
+Books,Books_Item_003,Category,SARIMA,30,188.28
+Books,Books_Item_004,Category,SARIMA,9,62.37
+Books,Books_Item_006,Category,SARIMA,9,53.17
+Books,Books_Item_007,Category,SARIMA,14,84.31
+Books,Books_Item_008,Category,SARIMA,24,113.33
+Cleaning_Supplies,Cleaning_Supplies_Item_001,Product,Holt-Winters (Log),0,20.81
+Cleaning_Supplies,Cleaning_Supplies_Item_002,Product,Holt-Winters (Log),0,33.28
+Cleaning_Supplies,Cleaning_Supplies_Item_003,Category,SARIMA,2,73.73
+Cleaning_Supplies,Cleaning_Supplies_Item_004,Product,Holt-Winters (Log),1,24.59
+Cleaning_Supplies,Cleaning_Supplies_Item_005,Category,SARIMA,2,51.37
+Cleaning_Supplies,Cleaning_Supplies_Item_006,Product,Holt-Winters (Log),1,37.83
+Cleaning_Supplies,Cleaning_Supplies_Item_007,Product,Holt-Winters (Log),0,6.28
+Cleaning_Supplies,Cleaning_Supplies_Item_008,Category,SARIMA,1,52.22
+Cleaning_Supplies,Cleaning_Supplies_Item_009,Category,SARIMA,10,94.44
+Cleaning_Supplies,Cleaning_Supplies_Item_010,Product,Holt-Winters (Log),0,14.87
+Cleaning_Supplies,Cleaning_Supplies_Item_011,Product,Holt-Winters (Log),2,31.95
+Cleaning_Supplies,Cleaning_Supplies_Item_012,Category,SARIMA,35,146.6
+Cleaning_Supplies,Cleaning_Supplies_Item_013,Category,SARIMA,29,156.86
+Cleaning_Supplies,Cleaning_Supplies_Item_014,Category,SARIMA,14,69.44
+Cleaning_Supplies,Cleaning_Supplies_Item_015,Category,SARIMA,21,93.64
+Cleaning_Supplies,Cleaning_Supplies_Item_016,Product,Holt-Winters (Log),0,21.73
+Cleaning_Supplies,Cleaning_Supplies_Item_017,Product,Holt-Winters (Log),4,26.19
+Cleaning_Supplies,Cleaning_Supplies_Item_018,Category,SARIMA,23,105.03
+Cleaning_Supplies,Cleaning_Supplies_Item_019,Category,SARIMA,25,87.33
+Cleaning_Supplies,Cleaning_Supplies_Item_020,Product,Holt-Winters (Log),0,17.74
+Cleaning_Supplies,Cleaning_Supplies_Item_021,Product,Holt-Winters (Log),0,27.58
+Cleaning_Supplies,Cleaning_Supplies_Item_022,Category,SARIMA,4,57.85
+Cleaning_Supplies,Cleaning_Supplies_Item_026,Category,SARIMA,16,85.53
+Cleaning_Supplies,Cleaning_Supplies_Item_027,Category,SARIMA,10,87.96
+Cleaning_Supplies,Cleaning_Supplies_Item_028,Product,Holt-Winters (Log),0,29.55
+Cleaning_Supplies,Cleaning_Supplies_Item_029,Product,Holt-Winters (Log),9,38.48
+Cleaning_Supplies,Cleaning_Supplies_Item_030,Product,Holt-Winters (Log),0,16.5
+Cleaning_Supplies,Cleaning_Supplies_Item_032,Product,Holt-Winters (Log),1,34.73
+Cleaning_Supplies,Cleaning_Supplies_Item_033,Product,Holt-Winters (Log),0,19.6
+Cleaning_Supplies,Cleaning_Supplies_Item_034,Product,Holt-Winters (Log),0,13.64
+Cleaning_Supplies,Cleaning_Supplies_Item_036,Product,Holt-Winters (Log),10,23.46
+Cleaning_Supplies,Cleaning_Supplies_Item_038,Product,Holt-Winters (Log),4,28.09
+Cleaning_Supplies,Cleaning_Supplies_Item_039,Product,Holt-Winters (Log),0,17.87
+Cleaning_Supplies,Cleaning_Supplies_Item_041,Product,Holt-Winters (Log),0,15.85
+Cleaning_Supplies,Cleaning_Supplies_Item_043,Product,Holt-Winters (Log),2,48.42
+Cleaning_Supplies,Cleaning_Supplies_Item_044,Product,Holt-Winters (Log),0,10.84
+Cleaning_Supplies,Cleaning_Supplies_Item_045,Category,SARIMA,11,73.3
+Cleaning_Supplies,Cleaning_Supplies_Item_046,Product,Holt-Winters (Log),3,30.88
+Cleaning_Supplies,Cleaning_Supplies_Item_047,Product,Holt-Winters (Log),10,31.33
+Cleaning_Supplies,Cleaning_Supplies_Item_048,Product,Holt-Winters (Log),1,44.46
+Cleaning_Supplies,Cleaning_Supplies_Item_049,Product,Holt-Winters (Log),0,16.3
+Cleaning_Supplies,Cleaning_Supplies_Item_050,Product,Holt-Winters (Log),0,4.77
+Cleaning_Supplies,Cleaning_Supplies_Item_051,Product,Holt-Winters (Log),1,42.66
+Cleaning_Supplies,Cleaning_Supplies_Item_052,Product,Holt-Winters (Log),0,15.13
+Cleaning_Supplies,Cleaning_Supplies_Item_053,Product,Holt-Winters (Log),4,37.59
+Clothing,Clothing_Item_001,Category,SARIMA,35,142.32
+Clothing,Clothing_Item_002,Product,Holt-Winters (Log),4,42.53
+Clothing,Clothing_Item_003,Product,Holt-Winters (Log),3,41.91
+Clothing,Clothing_Item_004,Category,SARIMA,6,54.67
+Clothing,Clothing_Item_005,Product,Holt-Winters (Log),2,43.04
+Clothing,Clothing_Item_006,Category,SARIMA,23,80.16
+Clothing,Clothing_Item_007,Category,SARIMA,13,84.78
+Clothing,Clothing_Item_008,Product,Holt-Winters (Log),2,32.78
+Clothing,Clothing_Item_015,Category,SARIMA,26,116.95
+Clothing,Clothing_Item_018,Category,SARIMA,9,inf
+Clothing,Clothing_Item_019,Category,SARIMA,8,inf
+Clothing,Clothing_Item_021,Category,SARIMA,2,65.48
+Clothing,Clothing_Item_023,Category,SARIMA,10,55.68
+Clothing,Clothing_Item_027,Category,SARIMA,9,85.2
+Clothing,Clothing_Item_028,Product,Holt-Winters (Log),3,14.48
+Clothing,Clothing_Item_029,Category,SARIMA,16,86.6
+Clothing,Clothing_Item_030,Category,SARIMA,16,76.44
+Clothing,Clothing_Item_031,Category,SARIMA,4,57.69
+Clothing,Clothing_Item_032,Product,Holt-Winters (Log),1,17.78
+Clothing,Clothing_Item_033,Category,SARIMA,10,84.38
+Clothing,Clothing_Item_034,Category,SARIMA,15,153.76
+Clothing,Clothing_Item_035,Product,Holt-Winters (Log),14,39.12
+Clothing,Clothing_Item_036,Category,SARIMA,8,92.58
+Clothing,Clothing_Item_037,Product,Holt-Winters (Log),3,37.05
+Clothing,Clothing_Item_038,Product,Holt-Winters (Log),2,13.31
+Clothing,Clothing_Item_039,Product,Holt-Winters (Log),2,27.96
+Clothing,Clothing_Item_040,Product,Holt-Winters (Log),16,47.55
+Clothing,Clothing_Item_041,Category,SARIMA,6,82.02
+Clothing,Clothing_Item_042,Product,Holt-Winters (Log),10,36.5
+Clothing,Clothing_Item_043,Product,Holt-Winters (Log),1,17.65
+Clothing,Clothing_Item_044,Product,Holt-Winters (Log),2,16.53
+Clothing,Clothing_Item_045,Product,Holt-Winters (Log),0,20.06
+Clothing,Clothing_Item_046,Product,Holt-Winters (Log),6,24.89
+Clothing,Clothing_Item_047,Category,SARIMA,8,94.22
+Clothing,Clothing_Item_048,Product,Holt-Winters (Log),12,48.36
+Clothing,Clothing_Item_049,Product,Holt-Winters (Log),3,48.53
+Clothing,Clothing_Item_050,Category,SARIMA,9,109.23
+Clothing,Clothing_Item_051,Product,Holt-Winters (Log),6,24.05
+Clothing,Clothing_Item_060,Category,SARIMA,10,87.08
+Clothing,Clothing_Item_061,Category,SARIMA,7,62.29
+Clothing,Clothing_Item_062,Product,Holt-Winters (Log),10,47.16
+Clothing,Clothing_Item_063,Category,SARIMA,16,65.33
+Clothing,Clothing_Item_064,Category,SARIMA,20,52.57
+Clothing,Clothing_Item_065,Product,Holt-Winters (Log),7,46.09
+Clothing,Clothing_Item_066,Category,SARIMA,9,57.46
+Clothing,Clothing_Item_067,Product,Holt-Winters (Log),2,26.49
+Clothing,Clothing_Item_068,Category,SARIMA,18,76.73
+Clothing,Clothing_Item_069,Category,SARIMA,12,96.48
+Clothing,Clothing_Item_070,Product,Holt-Winters (Log),1,36.14
+Clothing,Clothing_Item_071,Product,Holt-Winters (Log),8,47.68
+Clothing,Clothing_Item_072,Product,Holt-Winters (Log),7,37.52
+Clothing,Clothing_Item_074,Product,Holt-Winters (Log),1,36.72
+Clothing,Clothing_Item_077,Product,Holt-Winters (Log),5,37.07
+Clothing,Clothing_Item_078,Category,SARIMA,29,152.68
+Clothing,Clothing_Item_079,Product,Holt-Winters (Log),0,28.72
+Clothing,Clothing_Item_080,Product,Holt-Winters (Log),0,37.68
+Clothing,Clothing_Item_081,Category,SARIMA,19,111.93
+Clothing,Clothing_Item_082,Category,SARIMA,17,82.55
+Clothing,Clothing_Item_083,Product,Holt-Winters (Log),15,35.76
+Clothing,Clothing_Item_084,Product,Holt-Winters (Log),0,19.0
+Clothing,Clothing_Item_085,Category,SARIMA,12,99.84
+Clothing,Clothing_Item_086,Category,SARIMA,7,92.47
+Clothing,Clothing_Item_087,Product,Holt-Winters (Log),4,33.74
+Clothing,Clothing_Item_088,Product,Holt-Winters (Log),0,13.49
+Clothing,Clothing_Item_089,Category,SARIMA,11,51.26
+Clothing,Clothing_Item_090,Category,SARIMA,21,80.79
+Clothing,Clothing_Item_091,Product,Holt-Winters (Log),1,46.8
+Clothing,Clothing_Item_092,Product,Holt-Winters (Log),1,41.93
+Clothing,Clothing_Item_093,Product,Holt-Winters (Log),7,44.23
+Clothing,Clothing_Item_094,Product,Holt-Winters (Log),0,5.42
+Clothing,Clothing_Item_095,Category,SARIMA,7,59.54
+Clothing,Clothing_Item_096,Product,Holt-Winters (Log),13,47.53
+Clothing,Clothing_Item_097,Category,SARIMA,8,55.89
+Clothing,Clothing_Item_098,Category,SARIMA,1,52.88
+Clothing,Clothing_Item_099,Product,Holt-Winters (Log),2,14.56
+Clothing,Clothing_Item_100,Product,Holt-Winters (Log),0,21.93
+Clothing,Clothing_Item_101,Category,SARIMA,14,78.09
+Clothing,Clothing_Item_102,Category,SARIMA,8,59.37
+Computers,Computers_Item_001,Product,Holt-Winters (Log),0,13.92
+Computers,Computers_Item_002,Product,Holt-Winters (Log),0,4.7
+Computers,Computers_Item_003,Product,Holt-Winters (Log),0,8.47
+Computers,Computers_Item_004,Product,Holt-Winters (Log),4,25.28
+Computers,Computers_Item_005,Category,SARIMA,20,107.42
+Computers,Computers_Item_006,Category,SARIMA,25,113.59
+Computers,Computers_Item_007,Product,Holt-Winters (Log),0,5.71
+Computers,Computers_Item_008,Product,Holt-Winters (Log),0,3.64
+Computers,Computers_Item_009,Product,Holt-Winters (Log),5,16.23
+Computers,Computers_Item_010,Product,Holt-Winters (Log),1,15.54
+Computers,Computers_Item_011,Product,Holt-Winters (Log),0,3.31
+Computers,Computers_Item_012,Product,Holt-Winters (Log),0,4.4
+Computers,Computers_Item_013,Product,Holt-Winters (Log),0,3.25
+Computers,Computers_Item_014,Product,Holt-Winters (Log),3,10.27
+Computers,Computers_Item_015,Category,SARIMA,5,62.59
+Computers,Computers_Item_016,Product,Holt-Winters (Log),0,10.04
+Computers,Computers_Item_017,Product,Holt-Winters (Log),0,7.18
+Computers,Computers_Item_018,Product,Holt-Winters (Log),0,2.45
+Computers,Computers_Item_019,Product,Holt-Winters (Log),0,5.87
+Computers,Computers_Item_020,Product,Holt-Winters (Log),0,3.88
+Computers,Computers_Item_021,Product,Holt-Winters (Log),0,4.91
+Computers,Computers_Item_022,Product,Holt-Winters (Log),0,8.57
+Computers,Computers_Item_023,Product,Holt-Winters (Log),0,7.57
+Computers,Computers_Item_024,Category,SARIMA,9,53.52
+Computers,Computers_Item_025,Product,Holt-Winters (Log),0,9.79
+Computers,Computers_Item_026,Product,Holt-Winters (Log),0,22.89
+Computers,Computers_Item_027,Product,Holt-Winters (Log),1,24.91
+Computers,Computers_Item_028,Product,Holt-Winters (Log),2,45.21
+Computers,Computers_Item_029,Product,Holt-Winters (Log),10,39.47
+Computers,Computers_Item_030,Product,Holt-Winters (Log),2,29.43
+Computers,Computers_Item_031,Product,Holt-Winters (Log),0,2.34
+Computers,Computers_Item_032,Product,Holt-Winters (Log),0,3.27
+Computers,Computers_Item_033,Product,Holt-Winters (Log),0,3.06
+Computers,Computers_Item_034,Product,Holt-Winters (Log),0,5.12
+Computers,Computers_Item_035,Product,Holt-Winters (Log),0,3.87
+Computers,Computers_Item_036,Product,Holt-Winters (Log),0,4.34
+Computers,Computers_Item_037,Product,Holt-Winters (Log),1,6.92
+Computers,Computers_Item_038,Product,Holt-Winters (Log),4,14.99
+Computers,Computers_Item_039,Product,Holt-Winters (Log),1,17.38
+Computers,Computers_Item_041,Category,SARIMA,27,72.13
+Computers,Computers_Item_042,Category,SARIMA,10,55.22
+Computers,Computers_Item_043,Product,Holt-Winters (Log),0,11.81
+Computers,Computers_Item_044,Category,SARIMA,19,57.6
+Computers,Computers_Item_045,Category,SARIMA,12,84.8
+Computers,Computers_Item_046,Product,Holt-Winters (Log),0,13.82
+Computers,Computers_Item_047,Product,Holt-Winters (Log),2,24.09
+Computers,Computers_Item_048,Product,Holt-Winters (Log),0,11.44
+Computers,Computers_Item_049,Category,SARIMA,12,69.94
+Computers,Computers_Item_051,Product,Holt-Winters (Log),3,48.08
+Computers,Computers_Item_052,Product,Holt-Winters (Log),2,11.48
+Computers,Computers_Item_053,Product,Holt-Winters (Log),23,30.03
+Computers,Computers_Item_054,Product,Holt-Winters (Log),0,4.11
+Computers,Computers_Item_055,Product,Holt-Winters (Log),0,10.67
+Computers,Computers_Item_056,Product,Holt-Winters (Log),0,6.49
+Computers,Computers_Item_057,Category,SARIMA,35,103.79
+Computers,Computers_Item_060,Category,SARIMA,24,139.63
+Computers,Computers_Item_061,Product,Holt-Winters (Log),8,32.79
+Computers,Computers_Item_062,Product,Holt-Winters (Log),4,11.58
+Computers,Computers_Item_063,Category,SARIMA,10,78.96
+Computers,Computers_Item_065,Product,Holt-Winters (Log),1,25.11
+Computers,Computers_Item_066,Category,SARIMA,8,78.07
+Computers,Computers_Item_067,Product,Holt-Winters (Log),1,17.45
+Computers,Computers_Item_068,Product,Holt-Winters (Log),1,6.37
+Computers,Computers_Item_069,Product,Holt-Winters (Log),2,46.93
+Computers,Computers_Item_070,Product,Holt-Winters (Log),17,45.59
+Computers,Computers_Item_071,Category,SARIMA,14,84.05
+Computers,Computers_Item_072,Product,Holt-Winters (Log),4,28.38
+Computers,Computers_Item_073,Category,SARIMA,8,64.89
+Computers,Computers_Item_074,Product,Holt-Winters (Log),0,3.46
+Computers,Computers_Item_075,Product,Holt-Winters (Log),0,2.17
+Computers,Computers_Item_076,Product,Holt-Winters (Log),0,5.33
+Computers,Computers_Item_077,Product,Holt-Winters (Log),0,3.17
+Computers,Computers_Item_080,Category,SARIMA,14,85.17
+Computers,Computers_Item_081,Product,Holt-Winters (Log),1,13.28
+Computers,Computers_Item_082,Category,SARIMA,7,64.33
+Computers,Computers_Item_083,Product,Holt-Winters (Log),0,10.37
+Computers,Computers_Item_085,Product,Holt-Winters (Log),0,10.57
+Computers,Computers_Item_086,Product,Holt-Winters (Log),0,15.72
+Computers,Computers_Item_087,Product,Holt-Winters (Log),0,9.53
+Computers,Computers_Item_088,Product,Holt-Winters (Log),8,14.29
+Computers,Computers_Item_089,Product,Holt-Winters (Log),0,9.68
+Computers,Computers_Item_090,Product,Holt-Winters (Log),6,43.26
+Computers,Computers_Item_092,Product,Holt-Winters (Log),4,29.54
+Computers,Computers_Item_093,Product,Holt-Winters (Log),0,9.55
+Computers,Computers_Item_094,Product,Holt-Winters (Log),4,39.85
+Computers,Computers_Item_095,Product,Holt-Winters (Log),0,19.46
+Computers,Computers_Item_096,Product,Holt-Winters (Log),11,44.22
+Computers,Computers_Item_097,Category,SARIMA,12,73.61
+Computers,Computers_Item_098,Product,Holt-Winters (Log),7,26.49
+Computers,Computers_Item_099,Product,Holt-Winters (Log),2,27.24
+Computers,Computers_Item_100,Product,Holt-Winters (Log),11,29.56
+Computers,Computers_Item_101,Product,Holt-Winters (Log),5,10.46
+Computers,Computers_Item_102,Product,Holt-Winters (Log),0,7.33
+Computers,Computers_Item_103,Product,Holt-Winters (Log),0,1.85
+Computers,Computers_Item_104,Product,Holt-Winters (Log),0,10.04
+Computers,Computers_Item_105,Product,Holt-Winters (Log),0,1.77
+Computers,Computers_Item_106,Product,Holt-Winters (Log),0,7.43
+Computers,Computers_Item_107,Category,SARIMA,18,81.07
+Computers,Computers_Item_108,Product,Holt-Winters (Log),15,35.35
+Computers,Computers_Item_109,Product,Holt-Winters (Log),1,25.41
+Computers,Computers_Item_110,Category,SARIMA,30,116.27
+Computers,Computers_Item_111,Category,SARIMA,29,98.77
+Computers,Computers_Item_112,Product,Holt-Winters (Log),0,7.44
+Computers,Computers_Item_113,Category,SARIMA,16,54.44
+Computers,Computers_Item_114,Product,Holt-Winters (Log),6,24.03
+Computers,Computers_Item_115,Product,Holt-Winters (Log),4,18.5
+Computers,Computers_Item_116,Product,Holt-Winters (Log),0,4.72
+Computers,Computers_Item_117,Product,Holt-Winters (Log),0,3.04
+Computers,Computers_Item_118,Product,Holt-Winters (Log),4,16.7
+Computers,Computers_Item_119,Product,Holt-Winters (Log),4,9.92
+Computers,Computers_Item_120,Category,SARIMA,12,67.63
+Computers,Computers_Item_121,Product,Holt-Winters (Log),7,45.1
+Computers,Computers_Item_122,Product,Holt-Winters (Log),0,6.17
+Computers,Computers_Item_123,Product,Holt-Winters (Log),0,6.6
+Computers,Computers_Item_124,Product,Holt-Winters (Log),3,20.15
+Computers,Computers_Item_125,Product,Holt-Winters (Log),0,3.31
+Computers,Computers_Item_126,Product,Holt-Winters (Log),0,7.58
+Computers,Computers_Item_127,Product,Holt-Winters (Log),9,40.18
+Computers,Computers_Item_128,Product,Holt-Winters (Log),0,3.49
+Computers,Computers_Item_129,Product,Holt-Winters (Log),0,18.25
+Computers,Computers_Item_130,Product,Holt-Winters (Log),0,8.17
+Computers,Computers_Item_131,Product,Holt-Winters (Log),1,12.52
+Computers,Computers_Item_132,Product,Holt-Winters (Log),0,9.4
+Computers,Computers_Item_133,Product,Holt-Winters (Log),3,14.99
+Computers,Computers_Item_134,Product,Holt-Winters (Log),3,49.22
+Computers,Computers_Item_135,Category,SARIMA,25,98.88
+Computers,Computers_Item_136,Product,Holt-Winters (Log),0,3.81
+Computers,Computers_Item_137,Product,Holt-Winters (Log),11,20.93
+Computers,Computers_Item_138,Category,SARIMA,14,73.74
+Computers,Computers_Item_139,Product,Holt-Winters (Log),2,25.08
+Computers,Computers_Item_140,Product,Holt-Winters (Log),1,20.46
+Computers,Computers_Item_141,Product,Holt-Winters (Log),0,6.19
+Computers,Computers_Item_142,Product,Holt-Winters (Log),1,21.43
+Computers,Computers_Item_143,Product,Holt-Winters (Log),0,9.41
+Computers,Computers_Item_144,Category,SARIMA,20,92.14
+Computers,Computers_Item_146,Product,Holt-Winters (Log),0,2.74
+Computers,Computers_Item_147,Product,Holt-Winters (Log),0,2.66
+Computers,Computers_Item_148,Product,Holt-Winters (Log),4,46.03
+Computers,Computers_Item_149,Product,Holt-Winters (Log),0,4.25
+Computers,Computers_Item_150,Category,SARIMA,7,70.9
+Computers,Computers_Item_151,Product,Holt-Winters (Log),0,5.81
+Computers,Computers_Item_152,Product,Holt-Winters (Log),2,11.95
+Computers,Computers_Item_153,Product,Holt-Winters (Log),0,7.49
+Computers,Computers_Item_154,Product,Holt-Winters (Log),0,6.69
+Computers,Computers_Item_155,Product,Holt-Winters (Log),0,2.47
+Computers,Computers_Item_156,Product,Holt-Winters (Log),15,47.26
+Computers,Computers_Item_157,Product,Holt-Winters (Log),0,4.18
+Computers,Computers_Item_158,Product,Holt-Winters (Log),1,15.17
+Computers,Computers_Item_159,Product,Holt-Winters (Log),0,9.84
+Computers,Computers_Item_161,Product,Holt-Winters (Log),0,2.53
+Computers,Computers_Item_162,Product,Holt-Winters (Log),0,5.64
+Computers,Computers_Item_163,Product,Holt-Winters (Log),14,24.56
+Computers,Computers_Item_164,Product,Holt-Winters (Log),3,23.41
+Computers,Computers_Item_165,Product,Holt-Winters (Log),0,5.5
+Computers,Computers_Item_166,Category,SARIMA,31,100.64
+Computers,Computers_Item_167,Product,Holt-Winters (Log),13,25.73
+Computers,Computers_Item_168,Category,SARIMA,32,172.52
+Computers,Computers_Item_169,Product,Holt-Winters (Log),0,10.69
+Computers,Computers_Item_170,Product,Holt-Winters (Log),5,28.29
+Computers,Computers_Item_171,Product,Holt-Winters (Log),0,16.17
+Computers,Computers_Item_172,Category,SARIMA,18,67.75
+Computers,Computers_Item_173,Product,Holt-Winters (Log),8,35.74
+Computers,Computers_Item_174,Category,SARIMA,8,58.85
+Computers,Computers_Item_175,Category,SARIMA,2,62.77
+Computers,Computers_Item_176,Product,Holt-Winters (Log),22,44.26
+Computers,Computers_Item_177,Product,Holt-Winters (Log),0,8.03
+Computers,Computers_Item_178,Product,Holt-Winters (Log),1,11.6
+Computers,Computers_Item_179,Product,Holt-Winters (Log),0,4.86
+Computers,Computers_Item_180,Category,SARIMA,16,68.63
+Computers,Computers_Item_181,Product,Holt-Winters (Log),1,14.98
+Computers,Computers_Item_182,Product,Holt-Winters (Log),8,33.16
+Computers,Computers_Item_185,Category,SARIMA,29,68.91
+Dairy,Dairy_Item_001,Product,Holt-Winters (Log),15,47.39
+Dairy,Dairy_Item_002,Product,Holt-Winters (Log),1,19.9
+Dairy,Dairy_Item_003,Product,Holt-Winters (Log),1,28.5
+Dairy,Dairy_Item_004,Product,Holt-Winters (Log),0,26.73
+Dairy,Dairy_Item_005,Product,Holt-Winters (Log),0,9.59
+Dairy,Dairy_Item_006,Product,Holt-Winters (Log),0,31.51
+Dairy,Dairy_Item_007,Category,SARIMA,12,65.93
+Dairy,Dairy_Item_008,Product,Holt-Winters (Log),6,43.16
+Dairy,Dairy_Item_009,Product,Holt-Winters (Log),0,11.22
+Dairy,Dairy_Item_010,Category,SARIMA,21,98.16
+Dairy,Dairy_Item_011,Product,Holt-Winters (Log),0,9.06
+Dairy,Dairy_Item_012,Category,SARIMA,19,82.54
+Dairy,Dairy_Item_013,Product,Holt-Winters (Log),9,44.07
+Dairy,Dairy_Item_014,Category,SARIMA,18,79.12
+Dairy,Dairy_Item_015,Category,SARIMA,19,51.55
+Dairy,Dairy_Item_016,Product,Holt-Winters (Log),2,22.06
+Dairy,Dairy_Item_017,Product,Holt-Winters (Log),0,15.43
+Dairy,Dairy_Item_018,Product,Holt-Winters (Log),1,35.38
+Dairy,Dairy_Item_019,Product,Holt-Winters (Log),0,5.83
+Dairy,Dairy_Item_020,Product,Holt-Winters (Log),0,17.75
+Dairy,Dairy_Item_021,Product,Holt-Winters (Log),0,18.92
+Dairy,Dairy_Item_022,Product,Holt-Winters (Log),0,5.48
+Dairy,Dairy_Item_023,Product,Holt-Winters (Log),1,45.16
+Dairy,Dairy_Item_024,Product,Holt-Winters (Log),1,18.49
+Dairy,Dairy_Item_025,Product,Holt-Winters (Log),0,14.68
+Dairy,Dairy_Item_026,Product,Holt-Winters (Log),7,28.51
+Dairy,Dairy_Item_027,Product,Holt-Winters (Log),10,39.99
+Dairy,Dairy_Item_028,Category,SARIMA,10,77.55
+Dairy,Dairy_Item_029,Category,SARIMA,6,52.7
+Dairy,Dairy_Item_030,Product,Holt-Winters (Log),0,20.63
+Dairy,Dairy_Item_031,Category,SARIMA,13,50.71
+Dairy,Dairy_Item_032,Category,SARIMA,32,73.48
+Dairy,Dairy_Item_033,Product,Holt-Winters (Log),0,21.55
+Dairy,Dairy_Item_034,Category,SARIMA,24,139.4
+Dairy,Dairy_Item_035,Product,Holt-Winters (Log),10,19.64
+Dairy,Dairy_Item_036,Product,Holt-Winters (Log),3,40.27
+Dairy,Dairy_Item_037,Category,SARIMA,14,89.34
+Dairy,Dairy_Item_038,Product,Holt-Winters (Log),1,27.6
+Dairy,Dairy_Item_039,Product,Holt-Winters (Log),3,26.66
+Dairy,Dairy_Item_040,Category,SARIMA,14,100.94
+Dairy,Dairy_Item_041,Product,Holt-Winters (Log),1,35.44
+Electricals,Electricals_Item_001,Category,SARIMA,24,110.17
+Electricals,Electricals_Item_003,Category,SARIMA,9,67.24
+Electricals,Electricals_Item_004,Category,SARIMA,17,62.99
+Electricals,Electricals_Item_005,Category,SARIMA,29,65.33
+Electricals,Electricals_Item_006,Product,Holt-Winters (Log),24,31.55
+Electricals,Electricals_Item_007,Category,SARIMA,18,67.42
+Electricals,Electricals_Item_010,Category,SARIMA,36,54.2
+Electricals,Electricals_Item_011,Category,SARIMA,24,79.61
+Electricals,Electricals_Item_012,Product,Holt-Winters (Log),9,39.13
+Electricals,Electricals_Item_014,Product,Holt-Winters (Log),14,33.64
+Electricals,Electricals_Item_015,Category,SARIMA,33,169.6
+Electricals,Electricals_Item_018,Category,SARIMA,26,153.54
+Electricals,Electricals_Item_019,Category,SARIMA,34,172.37
+Electricals,Electricals_Item_020,Category,SARIMA,25,51.04
+Electricals,Electricals_Item_021,Category,SARIMA,21,95.61
+Electricals,Electricals_Item_022,Category,SARIMA,30,146.83
+Electricals,Electricals_Item_023,Category,SARIMA,25,88.69
+Electricals,Electricals_Item_024,Category,SARIMA,19,56.62
+Electricals,Electricals_Item_025,Category,SARIMA,18,71.78
+Electricals,Electricals_Item_026,Category,SARIMA,11,61.3
+Electricals,Electricals_Item_027,Category,SARIMA,16,75.14
+Electricals,Electricals_Item_028,Product,Holt-Winters (Log),13,48.28
+Electricals,Electricals_Item_029,Product,Holt-Winters (Log),3,23.15
+Electricals,Electricals_Item_030,Category,SARIMA,30,93.02
+Electricals,Electricals_Item_031,Category,SARIMA,23,62.23
+Electricals,Electricals_Item_032,Category,SARIMA,32,137.48
+Electricals,Electricals_Item_035,Category,SARIMA,25,92.32
+Electricals,Electricals_Item_036,Product,Holt-Winters (Log),4,15.51
+Electricals,Electricals_Item_038,Product,Holt-Winters (Log),12,42.38
+Electricals,Electricals_Item_039,Product,Holt-Winters (Log),1,26.96
+Electricals,Electricals_Item_040,Product,Holt-Winters (Log),0,11.5
+Electricals,Electricals_Item_042,Product,Holt-Winters (Log),12,31.76
+Electricals,Electricals_Item_043,Product,Holt-Winters (Log),9,23.39
+Electricals,Electricals_Item_044,Category,SARIMA,10,71.7
+Electricals,Electricals_Item_045,Category,SARIMA,18,79.88
+Electricals,Electricals_Item_046,Category,SARIMA,14,69.65
+Electricals,Electricals_Item_047,Category,SARIMA,27,124.45
+Electricals,Electricals_Item_048,Category,SARIMA,19,58.78
+Electricals,Electricals_Item_049,Category,SARIMA,9,62.19
+Electricals,Electricals_Item_050,Category,SARIMA,13,80.28
+Electricals,Electricals_Item_051,Category,SARIMA,11,58.17
+Electricals,Electricals_Item_052,Category,SARIMA,18,88.77
+Electricals,Electricals_Item_054,Category,SARIMA,24,81.12
+Electricals,Electricals_Item_055,Category,SARIMA,19,108.54
+Electricals,Electricals_Item_056,Category,SARIMA,13,59.27
+Electricals,Electricals_Item_057,Product,Holt-Winters (Log),6,39.99
+Electricals,Electricals_Item_058,Category,SARIMA,13,77.0
+Electricals,Electricals_Item_059,Category,SARIMA,8,74.57
+Electricals,Electricals_Item_060,Category,SARIMA,21,69.53
+Electricals,Electricals_Item_061,Category,SARIMA,25,111.73
+Electricals,Electricals_Item_062,Category,SARIMA,19,72.85
+Electronics,Electronics_Item_001,Product,Holt-Winters (Log),5,10.15
+Electronics,Electronics_Item_002,Product,Holt-Winters (Log),1,17.99
+Electronics,Electronics_Item_003,Product,Holt-Winters (Log),0,8.43
+Electronics,Electronics_Item_006,Product,Holt-Winters (Log),2,25.17
+Electronics,Electronics_Item_007,Product,Holt-Winters (Log),7,33.03
+Electronics,Electronics_Item_008,Product,Holt-Winters (Log),7,17.39
+Electronics,Electronics_Item_011,Category,SARIMA,10,51.42
+Electronics,Electronics_Item_012,Category,SARIMA,10,65.93
+Fitness,Fitness_Item_001,Category,SARIMA,10,79.16
+Fitness,Fitness_Item_002,Product,Holt-Winters (Log),5,47.61
+Fitness,Fitness_Item_003,Product,Holt-Winters (Log),5,39.57
+Fitness,Fitness_Item_004,Product,Holt-Winters (Log),2,15.63
+Fitness,Fitness_Item_005,Category,SARIMA,4,62.48
+Fitness,Fitness_Item_006,Product,Holt-Winters (Log),9,38.97
+Fitness,Fitness_Item_007,Product,Holt-Winters (Log),20,35.69
+Fitness,Fitness_Item_008,Product,Holt-Winters (Log),18,23.16
+Fitness,Fitness_Item_009,Product,Holt-Winters (Log),19,40.08
+Fitness,Fitness_Item_010,Product,Holt-Winters (Log),0,12.28
+Fitness,Fitness_Item_011,Product,Holt-Winters (Log),10,48.91
+Fitness,Fitness_Item_012,Category,SARIMA,8,96.45
+Fitness,Fitness_Item_013,Category,SARIMA,10,74.03
+Fitness,Fitness_Item_014,Category,SARIMA,14,67.01
+Fitness,Fitness_Item_015,Category,SARIMA,5,81.05
+Fitness,Fitness_Item_016,Category,SARIMA,14,52.18
+Fitness,Fitness_Item_017,Category,SARIMA,15,90.3
+Fitness,Fitness_Item_018,Category,SARIMA,14,95.89
+Fitness,Fitness_Item_019,Category,SARIMA,8,92.19
+Fitness,Fitness_Item_020,Product,Holt-Winters (Log),3,48.92
+Fitness,Fitness_Item_021,Category,SARIMA,18,123.01
+Fitness,Fitness_Item_022,Category,SARIMA,6,57.27
+Fitness,Fitness_Item_023,Category,SARIMA,25,73.77
+Food,Food_Item_001,Category,SARIMA,2,61.41
+Food,Food_Item_002,Category,SARIMA,13,52.33
+Food,Food_Item_003,Product,Holt-Winters (Log),6,44.61
+Food,Food_Item_004,Category,SARIMA,18,92.3
+Food,Food_Item_005,Product,Holt-Winters (Log),7,24.79
+Food,Food_Item_006,Product,Holt-Winters (Log),0,17.11
+Food,Food_Item_007,Category,SARIMA,13,86.35
+Food,Food_Item_008,Category,SARIMA,1,56.43
+Food,Food_Item_009,Product,Holt-Winters (Log),0,31.64
+Food,Food_Item_010,Product,Holt-Winters (Log),4,45.31
+Food,Food_Item_011,Product,Holt-Winters (Log),2,30.96
+Food,Food_Item_012,Category,SARIMA,4,58.68
+Food,Food_Item_013,Category,SARIMA,7,67.17
+Food,Food_Item_014,Product,Holt-Winters (Log),3,49.96
+Food,Food_Item_015,Product,Holt-Winters (Log),6,49.45
+Food,Food_Item_016,Category,SARIMA,17,59.96
+Food,Food_Item_017,Product,Holt-Winters (Log),9,42.7
+Food,Food_Item_018,Category,SARIMA,8,76.4
+Food,Food_Item_019,Product,Holt-Winters (Log),6,15.51
+Food,Food_Item_020,Category,SARIMA,14,81.5
+Food,Food_Item_021,Category,SARIMA,19,58.78
+Food,Food_Item_022,Product,Holt-Winters (Log),1,11.03
+Food,Food_Item_023,Product,Holt-Winters (Log),4,22.43
+Food,Food_Item_024,Product,Holt-Winters (Log),5,38.14
+Food,Food_Item_025,Product,Holt-Winters (Log),0,6.58
+Food,Food_Item_026,Product,Holt-Winters (Log),0,11.54
+Food,Food_Item_027,Product,Holt-Winters (Log),2,11.98
+Food,Food_Item_028,Product,Holt-Winters (Log),0,21.14
+Food,Food_Item_029,Category,SARIMA,6,67.35
+Food,Food_Item_030,Category,SARIMA,29,139.24
+Food,Food_Item_031,Category,SARIMA,15,78.44
+Food,Food_Item_032,Product,Holt-Winters (Log),0,4.65
+Food,Food_Item_033,Product,Holt-Winters (Log),0,14.64
+Food,Food_Item_034,Product,Holt-Winters (Log),1,25.39
+Food,Food_Item_035,Product,Holt-Winters (Log),3,29.95
+Food,Food_Item_036,Product,Holt-Winters (Log),1,45.85
+Food,Food_Item_037,Product,Holt-Winters (Log),0,3.79
+Food,Food_Item_038,Product,Holt-Winters (Log),0,7.64
+Food,Food_Item_039,Product,Holt-Winters (Log),0,3.27
+Food,Food_Item_040,Product,Holt-Winters (Log),0,9.04
+Food,Food_Item_041,Product,Holt-Winters (Log),3,17.49
+Food,Food_Item_042,Product,Holt-Winters (Log),3,23.13
+Food,Food_Item_043,Product,Holt-Winters (Log),10,29.95
+Food,Food_Item_044,Product,Holt-Winters (Log),0,36.09
+Food,Food_Item_045,Product,Holt-Winters (Log),1,35.61
+Food,Food_Item_046,Product,Holt-Winters (Log),0,4.64
+Food,Food_Item_047,Product,Holt-Winters (Log),0,11.76
+Food,Food_Item_048,Category,SARIMA,7,58.43
+Food,Food_Item_049,Category,SARIMA,16,106.57
+Food,Food_Item_050,Product,Holt-Winters (Log),0,9.19
+Food,Food_Item_051,Product,Holt-Winters (Log),0,22.69
+Food,Food_Item_055,Category,SARIMA,10,57.63
+Food,Food_Item_056,Category,SARIMA,13,99.51
+Food,Food_Item_057,Product,Holt-Winters (Log),2,22.57
+Food,Food_Item_058,Category,SARIMA,22,90.92
+Food,Food_Item_059,Category,SARIMA,22,78.82
+Food,Food_Item_060,Category,SARIMA,28,127.69
+Food,Food_Item_061,Category,SARIMA,27,116.1
+Food,Food_Item_062,Product,Holt-Winters (Log),1,16.18
+Food,Food_Item_063,Category,SARIMA,19,60.82
+Food,Food_Item_064,Category,SARIMA,9,65.29
+Food,Food_Item_065,Product,Holt-Winters (Log),1,40.68
+Food,Food_Item_066,Product,Holt-Winters (Log),0,23.16
+Food,Food_Item_067,Product,Holt-Winters (Log),0,9.07
+Food,Food_Item_068,Product,Holt-Winters (Log),6,24.22
+Food,Food_Item_069,Product,Holt-Winters (Log),8,40.98
+Food,Food_Item_070,Product,Holt-Winters (Log),15,44.93
+Food,Food_Item_071,Product,Holt-Winters (Log),8,32.45
+Food,Food_Item_072,Category,SARIMA,12,73.07
+Food,Food_Item_073,Product,Holt-Winters (Log),0,19.07
+Food,Food_Item_074,Product,Holt-Winters (Log),0,29.18
+Food,Food_Item_075,Product,Holt-Winters (Log),0,5.26
+Food,Food_Item_076,Product,Holt-Winters (Log),3,16.46
+Food,Food_Item_077,Product,Holt-Winters (Log),0,12.03
+Food,Food_Item_078,Product,Holt-Winters (Log),2,35.05
+Food,Food_Item_079,Category,SARIMA,33,111.63
+Food,Food_Item_080,Product,Holt-Winters (Log),8,38.5
+Food,Food_Item_081,Product,Holt-Winters (Log),0,18.93
+Food,Food_Item_082,Product,Holt-Winters (Log),0,9.56
+Food,Food_Item_083,Product,Holt-Winters (Log),1,36.14
+Food,Food_Item_084,Product,Holt-Winters (Log),1,22.08
+Food,Food_Item_085,Product,Holt-Winters (Log),0,5.21
+Food,Food_Item_086,Product,Holt-Winters (Log),0,23.13
+Food,Food_Item_087,Product,Holt-Winters (Log),1,22.52
+Food,Food_Item_088,Product,Holt-Winters (Log),11,36.92
+Food,Food_Item_089,Product,Holt-Winters (Log),2,8.3
+Food,Food_Item_090,Product,Holt-Winters (Log),4,28.08
+Food,Food_Item_091,Product,Holt-Winters (Log),4,22.87
+Food,Food_Item_092,Category,SARIMA,6,64.55
+Food,Food_Item_093,Product,Holt-Winters (Log),0,21.14
+Food,Food_Item_094,Product,Holt-Winters (Log),0,24.85
+Food,Food_Item_095,Product,Holt-Winters (Log),0,5.67
+Food,Food_Item_096,Product,Holt-Winters (Log),5,40.69
+Food,Food_Item_097,Product,Holt-Winters (Log),3,30.33
+Food,Food_Item_098,Product,Holt-Winters (Log),7,33.54
+Food,Food_Item_099,Product,Holt-Winters (Log),8,29.49
+Food,Food_Item_100,Product,Holt-Winters (Log),0,11.81
+Food,Food_Item_101,Product,Holt-Winters (Log),0,5.6
+Food,Food_Item_102,Product,Holt-Winters (Log),1,16.89
+Food,Food_Item_103,Product,Holt-Winters (Log),2,34.75
+Food,Food_Item_104,Category,SARIMA,5,63.58
+Food,Food_Item_105,Product,Holt-Winters (Log),0,7.13
+Food,Food_Item_106,Category,SARIMA,5,59.09
+Food,Food_Item_107,Product,Holt-Winters (Log),3,19.43
+Food,Food_Item_108,Category,SARIMA,6,54.78
+Food,Food_Item_109,Product,Holt-Winters (Log),0,15.26
+Food,Food_Item_110,Product,Holt-Winters (Log),1,24.61
+Food,Food_Item_111,Product,Holt-Winters (Log),0,19.14
+Food,Food_Item_112,Category,SARIMA,23,91.56
+Food,Food_Item_113,Category,SARIMA,19,56.12
+Food,Food_Item_114,Category,SARIMA,21,121.32
+Food,Food_Item_115,Category,SARIMA,22,97.55
+Food,Food_Item_116,Product,Holt-Winters (Log),1,28.74
+Food,Food_Item_117,Product,Holt-Winters (Log),0,7.45
+Food,Food_Item_118,Product,Holt-Winters (Log),0,11.46
+Food,Food_Item_119,Product,Holt-Winters (Log),0,10.55
+Food,Food_Item_120,Product,Holt-Winters (Log),6,37.9
+Food,Food_Item_121,Product,Holt-Winters (Log),8,27.9
+Food,Food_Item_122,Category,SARIMA,11,67.72
+Food,Food_Item_123,Product,Holt-Winters (Log),0,11.99
+Food,Food_Item_124,Product,Holt-Winters (Log),0,17.56
+Food,Food_Item_125,Product,Holt-Winters (Log),0,16.24
+Food,Food_Item_126,Product,Holt-Winters (Log),0,18.28
+Food,Food_Item_127,Product,Holt-Winters (Log),2,31.32
+Food,Food_Item_128,Product,Holt-Winters (Log),6,42.27
+Food,Food_Item_129,Product,Holt-Winters (Log),0,10.06
+Food,Food_Item_130,Product,Holt-Winters (Log),0,12.72
+Food,Food_Item_131,Product,Holt-Winters (Log),0,10.35
+Food,Food_Item_132,Product,Holt-Winters (Log),3,12.07
+Food,Food_Item_133,Category,SARIMA,19,54.32
+Food,Food_Item_134,Product,Holt-Winters (Log),8,44.96
+Food,Food_Item_135,Category,SARIMA,2,52.35
+Food,Food_Item_136,Product,Holt-Winters (Log),4,37.42
+Food,Food_Item_137,Product,Holt-Winters (Log),0,33.74
+Food,Food_Item_138,Product,Holt-Winters (Log),1,49.2
+Food,Food_Item_140,Category,SARIMA,20,83.25
+Food,Food_Item_141,Product,Holt-Winters (Log),0,5.8
+Food,Food_Item_142,Product,Holt-Winters (Log),1,12.53
+Food,Food_Item_143,Product,Holt-Winters (Log),0,6.78
+Food,Food_Item_144,Product,Holt-Winters (Log),0,16.05
+Food,Food_Item_145,Product,Holt-Winters (Log),5,44.37
+Food,Food_Item_146,Product,Holt-Winters (Log),2,44.63
+Food,Food_Item_147,Product,Holt-Winters (Log),0,17.37
+Food,Food_Item_148,Product,Holt-Winters (Log),0,12.42
+Food,Food_Item_149,Product,Holt-Winters (Log),0,23.68
+Food,Food_Item_150,Category,SARIMA,2,52.78
+Food,Food_Item_151,Product,Holt-Winters (Log),1,27.67
+Food,Food_Item_152,Product,Holt-Winters (Log),0,8.23
+Food,Food_Item_153,Product,Holt-Winters (Log),0,6.94
+Food,Food_Item_154,Product,Holt-Winters (Log),0,2.36
+Food,Food_Item_155,Product,Holt-Winters (Log),0,18.15
+Food,Food_Item_156,Product,Holt-Winters (Log),0,20.97
+Food,Food_Item_157,Product,Holt-Winters (Log),0,3.88
+Food,Food_Item_158,Product,Holt-Winters (Log),0,9.19
+Food,Food_Item_159,Product,Holt-Winters (Log),2,44.97
+Food,Food_Item_160,Product,Holt-Winters (Log),0,24.2
+Food,Food_Item_161,Product,Holt-Winters (Log),13,33.0
+Food,Food_Item_162,Category,SARIMA,12,90.43
+Food,Food_Item_163,Category,SARIMA,8,54.17
+Food,Food_Item_164,Category,SARIMA,14,64.9
+Food,Food_Item_165,Category,SARIMA,7,85.48
+Food,Food_Item_166,Category,SARIMA,15,70.54
+Food,Food_Item_167,Category,SARIMA,7,67.89
+Food,Food_Item_168,Product,Holt-Winters (Log),5,41.88
+Food,Food_Item_169,Category,SARIMA,34,155.78
+Food,Food_Item_170,Category,SARIMA,16,56.6
+Food,Food_Item_172,Category,SARIMA,26,111.81
+Food,Food_Item_176,Category,SARIMA,5,53.63
+Food,Food_Item_177,Product,Holt-Winters (Log),0,14.52
+Food,Food_Item_178,Product,Holt-Winters (Log),0,18.48
+Food,Food_Item_179,Product,Holt-Winters (Log),0,19.53
+Food,Food_Item_180,Product,Holt-Winters (Log),0,14.03
+Food,Food_Item_181,Product,Holt-Winters (Log),0,25.27
+Food,Food_Item_182,Product,Holt-Winters (Log),0,14.81
+Food,Food_Item_183,Product,Holt-Winters (Log),0,11.38
+Food,Food_Item_184,Product,Holt-Winters (Log),0,35.06
+Food,Food_Item_185,Product,Holt-Winters (Log),0,21.29
+Food,Food_Item_186,Product,Holt-Winters (Log),0,32.15
+Food,Food_Item_187,Product,Holt-Winters (Log),0,17.44
+Food,Food_Item_188,Product,Holt-Winters (Log),0,23.42
+Food,Food_Item_189,Category,SARIMA,13,52.68
+Food,Food_Item_190,Product,Holt-Winters (Log),0,29.53
+Food,Food_Item_191,Category,SARIMA,2,55.84
+Food,Food_Item_192,Product,Holt-Winters (Log),0,24.89
+Food,Food_Item_193,Product,Holt-Winters (Log),0,16.21
+Food,Food_Item_194,Category,SARIMA,31,143.71
+Food,Food_Item_195,Product,Holt-Winters (Log),0,6.44
+Food,Food_Item_196,Product,Holt-Winters (Log),3,30.73
+Food,Food_Item_197,Product,Holt-Winters (Log),0,12.75
+Food,Food_Item_198,Product,Holt-Winters (Log),0,19.27
+Food,Food_Item_199,Product,Holt-Winters (Log),0,16.73
+Food,Food_Item_200,Product,Holt-Winters (Log),0,14.67
+Food,Food_Item_201,Product,Holt-Winters (Log),0,8.88
+Food,Food_Item_202,Product,Holt-Winters (Log),3,21.67
+Food,Food_Item_203,Product,Holt-Winters (Log),0,20.39
+Food,Food_Item_204,Product,Holt-Winters (Log),2,34.23
+Food,Food_Item_205,Category,SARIMA,3,59.04
+Food,Food_Item_206,Product,Holt-Winters (Log),0,10.36
+Food,Food_Item_207,Product,Holt-Winters (Log),0,29.08
+Food,Food_Item_209,Product,Holt-Winters (Log),2,23.64
+Food,Food_Item_210,Product,Holt-Winters (Log),4,32.36
+Food,Food_Item_211,Product,Holt-Winters (Log),0,22.53
+Food,Food_Item_212,Category,SARIMA,30,111.83
+Food,Food_Item_213,Category,SARIMA,26,67.96
+Food,Food_Item_214,Category,SARIMA,4,57.04
+Food,Food_Item_215,Category,SARIMA,16,101.5
+Food,Food_Item_216,Product,Holt-Winters (Log),3,10.79
+Food,Food_Item_217,Product,Holt-Winters (Log),1,30.57
+Food,Food_Item_218,Category,SARIMA,6,57.01
+Food,Food_Item_219,Category,SARIMA,7,82.93
+Food,Food_Item_220,Category,SARIMA,15,82.22
+Food,Food_Item_222,Product,Holt-Winters (Log),0,48.04
+Food,Food_Item_223,Category,SARIMA,4,63.96
+Food,Food_Item_224,Product,Holt-Winters (Log),7,40.93
+Food,Food_Item_225,Category,SARIMA,7,69.62
+Food,Food_Item_226,Product,Holt-Winters (Log),0,31.06
+Food,Food_Item_227,Product,Holt-Winters (Log),0,19.89
+Food,Food_Item_228,Category,SARIMA,3,55.5
+Food,Food_Item_229,Category,SARIMA,1,68.31
+Food,Food_Item_230,Product,Holt-Winters (Log),0,36.77
+Food,Food_Item_232,Product,Holt-Winters (Log),1,36.61
+Food,Food_Item_233,Product,Holt-Winters (Log),0,29.7
+Food,Food_Item_234,Category,SARIMA,9,74.3
+Food,Food_Item_235,Category,SARIMA,4,54.81
+Food,Food_Item_236,Category,SARIMA,25,73.28
+Food,Food_Item_237,Product,Holt-Winters (Log),2,24.15
+Food,Food_Item_238,Category,SARIMA,10,73.86
+Food,Food_Item_239,Category,SARIMA,10,58.01
+Food,Food_Item_240,Category,SARIMA,16,70.11
+Food,Food_Item_241,Category,SARIMA,20,76.02
+Food,Food_Item_243,Product,Holt-Winters (Log),0,45.05
+Food,Food_Item_244,Category,SARIMA,8,81.94
+Food,Food_Item_245,Product,Holt-Winters (Log),7,47.16
+Food,Food_Item_246,Category,SARIMA,7,72.28
+Food,Food_Item_247,Product,Holt-Winters (Log),1,39.65
+Food,Food_Item_248,Product,Holt-Winters (Log),2,40.17
+Food,Food_Item_249,Product,Holt-Winters (Log),3,43.63
+Food,Food_Item_250,Category,SARIMA,6,75.23
+Food,Food_Item_251,Category,SARIMA,32,151.07
+Food,Food_Item_252,Category,SARIMA,10,65.68
+Food,Food_Item_253,Product,Holt-Winters (Log),1,35.14
+Food,Food_Item_254,Category,SARIMA,11,85.0
+Food,Food_Item_255,Product,Holt-Winters (Log),0,20.74
+Food,Food_Item_256,Product,Holt-Winters (Log),4,48.47
+Food,Food_Item_257,Product,Holt-Winters (Log),3,21.6
+Food,Food_Item_258,Product,Holt-Winters (Log),2,37.38
+Food,Food_Item_259,Product,Holt-Winters (Log),2,37.81
+Food,Food_Item_260,Category,SARIMA,13,105.43
+Food,Food_Item_262,Product,Holt-Winters (Log),3,41.99
+Food,Food_Item_263,Category,SARIMA,6,65.81
+Food,Food_Item_264,Category,SARIMA,11,70.96
+Food,Food_Item_265,Category,SARIMA,9,59.83
+Food,Food_Item_266,Category,SARIMA,6,60.5
+Food,Food_Item_267,Category,SARIMA,24,129.36
+Food,Food_Item_268,Category,SARIMA,29,159.77
+Food,Food_Item_269,Category,SARIMA,4,54.72
+Food,Food_Item_270,Product,Holt-Winters (Log),8,44.69
+Food,Food_Item_271,Product,Holt-Winters (Log),0,28.14
+Food,Food_Item_272,Category,SARIMA,12,76.27
+Food,Food_Item_273,Category,SARIMA,6,72.69
+Food,Food_Item_274,Category,SARIMA,10,77.94
+Food,Food_Item_275,Category,SARIMA,10,81.86
+Food,Food_Item_276,Product,Holt-Winters (Log),5,44.24
+Food,Food_Item_277,Category,SARIMA,11,66.7
+Food,Food_Item_278,Category,SARIMA,12,85.97
+Footwear,Footwear_Item_003,Category,SARIMA,13,93.73
+Footwear,Footwear_Item_004,Product,Holt-Winters (Log),1,17.18
+Footwear,Footwear_Item_005,Category,SARIMA,3,55.39
+Footwear,Footwear_Item_006,Category,SARIMA,7,56.76
+Footwear,Footwear_Item_007,Category,SARIMA,27,70.04
+Furniture,Furniture_Item_001,Product,Holt-Winters (Log),0,8.42
+Furniture,Furniture_Item_002,Product,Holt-Winters (Log),0,10.99
+Furniture,Furniture_Item_003,Product,Holt-Winters (Log),0,8.51
+Furniture,Furniture_Item_004,Product,Holt-Winters (Log),0,7.63
+Furniture,Furniture_Item_005,Product,Holt-Winters (Log),11,29.37
+Furniture,Furniture_Item_006,Product,Holt-Winters (Log),0,11.66
+Furniture,Furniture_Item_007,Product,Holt-Winters (Log),0,13.74
+Furniture,Furniture_Item_008,Product,Holt-Winters (Log),0,15.82
+Furniture,Furniture_Item_009,Category,SARIMA,4,57.69
+Furniture,Furniture_Item_010,Product,Holt-Winters (Log),0,14.14
+Furniture,Furniture_Item_011,Category,SARIMA,6,65.73
+Furniture,Furniture_Item_012,Product,Holt-Winters (Log),0,30.78
+Furniture,Furniture_Item_013,Product,Holt-Winters (Log),1,18.9
+Furniture,Furniture_Item_014,Product,Holt-Winters (Log),1,22.47
+Furniture,Furniture_Item_015,Product,Holt-Winters (Log),2,46.35
+Furniture,Furniture_Item_016,Product,Holt-Winters (Log),2,27.83
+Furniture,Furniture_Item_017,Product,Holt-Winters (Log),0,14.94
+Furniture,Furniture_Item_018,Category,SARIMA,4,56.48
+Furniture,Furniture_Item_019,Product,Holt-Winters (Log),0,9.29
+Furniture,Furniture_Item_020,Product,Holt-Winters (Log),0,7.12
+Furniture,Furniture_Item_021,Product,Holt-Winters (Log),6,37.17
+Furniture,Furniture_Item_022,Product,Holt-Winters (Log),0,9.98
+Furniture,Furniture_Item_023,Product,Holt-Winters (Log),0,7.18
+Furniture,Furniture_Item_024,Product,Holt-Winters (Log),1,14.07
+Furniture,Furniture_Item_025,Product,Holt-Winters (Log),1,15.46
+Furniture,Furniture_Item_026,Product,Holt-Winters (Log),0,29.79
+Furniture,Furniture_Item_027,Category,SARIMA,13,57.26
+Furniture,Furniture_Item_028,Category,SARIMA,11,63.41
+Furniture,Furniture_Item_029,Product,Holt-Winters (Log),0,4.34
+Furniture,Furniture_Item_030,Product,Holt-Winters (Log),12,28.46
+Furniture,Furniture_Item_031,Product,Holt-Winters (Log),0,21.14
+Furniture,Furniture_Item_032,Category,SARIMA,12,64.64
+Furniture,Furniture_Item_033,Product,Holt-Winters (Log),0,22.22
+Furniture,Furniture_Item_034,Product,Holt-Winters (Log),7,16.46
+Furniture,Furniture_Item_035,Product,Holt-Winters (Log),0,7.6
+Furniture,Furniture_Item_036,Category,SARIMA,10,58.16
+Furniture,Furniture_Item_037,Product,Holt-Winters (Log),0,21.37
+Furniture,Furniture_Item_038,Product,Holt-Winters (Log),0,9.2
+Furniture,Furniture_Item_039,Product,Holt-Winters (Log),4,33.23
+Furniture,Furniture_Item_040,Product,Holt-Winters (Log),0,9.18
+Furniture,Furniture_Item_041,Category,SARIMA,21,55.0
+Furniture,Furniture_Item_042,Product,Holt-Winters (Log),0,10.95
+Furniture,Furniture_Item_043,Product,Holt-Winters (Log),0,14.94
+Furniture,Furniture_Item_044,Product,Holt-Winters (Log),0,12.72
+Furniture,Furniture_Item_045,Category,SARIMA,10,66.61
+Furniture,Furniture_Item_046,Product,Holt-Winters (Log),0,8.46
+Furniture,Furniture_Item_047,Category,SARIMA,5,66.04
+Furniture,Furniture_Item_048,Product,Holt-Winters (Log),0,22.82
+Furniture,Furniture_Item_049,Category,SARIMA,1,50.02
+Furniture,Furniture_Item_050,Product,Holt-Winters (Log),0,14.83
+Furniture,Furniture_Item_051,Product,Holt-Winters (Log),2,22.63
+Furniture,Furniture_Item_052,Product,Holt-Winters (Log),0,34.61
+Furniture,Furniture_Item_053,Product,Holt-Winters (Log),0,11.91
+Furniture,Furniture_Item_054,Product,Holt-Winters (Log),0,12.35
+Furniture,Furniture_Item_055,Product,Holt-Winters (Log),0,16.02
+Furniture,Furniture_Item_056,Category,SARIMA,5,52.19
+Furniture,Furniture_Item_057,Product,Holt-Winters (Log),0,8.77
+Furniture,Furniture_Item_058,Product,Holt-Winters (Log),4,28.4
+Furniture,Furniture_Item_059,Product,Holt-Winters (Log),0,23.55
+Furniture,Furniture_Item_060,Product,Holt-Winters (Log),1,40.88
+Furniture,Furniture_Item_061,Product,Holt-Winters (Log),0,14.82
+Furniture,Furniture_Item_075,Category,SARIMA,7,inf
+Furniture,Furniture_Item_077,Product,Holt-Winters (Log),0,16.95
+Furniture,Furniture_Item_078,Product,Holt-Winters (Log),0,13.11
+Furniture,Furniture_Item_079,Product,Holt-Winters (Log),0,15.42
+Furniture,Furniture_Item_080,Product,Holt-Winters (Log),1,14.66
+Furniture,Furniture_Item_081,Category,SARIMA,7,76.99
+Furniture,Furniture_Item_082,Category,SARIMA,2,52.51
+Furniture,Furniture_Item_083,Product,Holt-Winters (Log),16,45.35
+Furniture,Furniture_Item_084,Product,Holt-Winters (Log),3,36.82
+Furniture,Furniture_Item_085,Product,Holt-Winters (Log),0,22.05
+Furniture,Furniture_Item_086,Product,Holt-Winters (Log),0,33.31
+Furniture,Furniture_Item_087,Category,SARIMA,15,81.2
+Furniture,Furniture_Item_088,Product,Holt-Winters (Log),0,5.02
+Furniture,Furniture_Item_089,Product,Holt-Winters (Log),1,9.63
+Furniture,Furniture_Item_090,Category,SARIMA,15,77.04
+Furniture,Furniture_Item_091,Product,Holt-Winters (Log),0,21.41
+Furniture,Furniture_Item_092,Product,Holt-Winters (Log),0,29.91
+Furniture,Furniture_Item_093,Category,SARIMA,11,85.95
+Furniture,Furniture_Item_094,Product,Holt-Winters (Log),0,4.55
+Furniture,Furniture_Item_095,Product,Holt-Winters (Log),17,45.67
+Furniture,Furniture_Item_096,Category,SARIMA,24,70.25
+Furniture,Furniture_Item_097,Product,Holt-Winters (Log),3,45.81
+Furniture,Furniture_Item_098,Category,SARIMA,21,82.89
+Furniture,Furniture_Item_100,Product,Holt-Winters (Log),0,4.77
+Furniture,Furniture_Item_101,Product,Holt-Winters (Log),0,4.62
+Furniture,Furniture_Item_102,Product,Holt-Winters (Log),0,3.18
+Furniture,Furniture_Item_103,Product,Holt-Winters (Log),0,16.32
+Furniture,Furniture_Item_105,Product,Holt-Winters (Log),0,3.1
+Furniture,Furniture_Item_106,Product,Holt-Winters (Log),0,11.9
+Furniture,Furniture_Item_107,Product,Holt-Winters (Log),1,12.69
+Furniture,Furniture_Item_108,Product,Holt-Winters (Log),13,34.72
+Furniture,Furniture_Item_109,Product,Holt-Winters (Log),1,13.24
+Furniture,Furniture_Item_110,Product,Holt-Winters (Log),9,39.49
+Furniture,Furniture_Item_111,Product,Holt-Winters (Log),4,31.97
+Furniture,Furniture_Item_112,Product,Holt-Winters (Log),2,48.73
+Furniture,Furniture_Item_113,Product,Holt-Winters (Log),4,47.49
+Furniture,Furniture_Item_114,Category,SARIMA,14,80.58
+Furniture,Furniture_Item_115,Product,Holt-Winters (Log),2,47.72
+Furniture,Furniture_Item_116,Product,Holt-Winters (Log),0,25.87
+Furniture,Furniture_Item_117,Category,SARIMA,11,69.46
+Furniture,Furniture_Item_118,Category,SARIMA,13,108.02
+Furniture,Furniture_Item_119,Product,Holt-Winters (Log),2,42.72
+Furniture,Furniture_Item_120,Category,SARIMA,6,51.23
+Furniture,Furniture_Item_121,Product,Holt-Winters (Log),1,47.77
+Furniture,Furniture_Item_122,Category,SARIMA,6,76.44
+Furniture,Furniture_Item_123,Product,Holt-Winters (Log),2,28.7
+Furniture,Furniture_Item_124,Category,SARIMA,4,56.94
+Furniture,Furniture_Item_125,Product,Holt-Winters (Log),4,23.57
+Furniture,Furniture_Item_126,Product,Holt-Winters (Log),4,33.5
+Furniture,Furniture_Item_127,Category,SARIMA,7,60.47
+Furniture,Furniture_Item_128,Product,Holt-Winters (Log),0,32.15
+Furniture,Furniture_Item_129,Product,Holt-Winters (Log),0,26.91
+Furniture,Furniture_Item_130,Category,SARIMA,9,58.14
+Furniture,Furniture_Item_131,Product,Holt-Winters (Log),1,12.95
+Furniture,Furniture_Item_132,Category,SARIMA,1,57.37
+Furniture,Furniture_Item_133,Product,Holt-Winters (Log),0,14.49
+Furniture,Furniture_Item_134,Category,SARIMA,24,109.84
+Furniture,Furniture_Item_135,Product,Holt-Winters (Log),0,27.74
+Furniture,Furniture_Item_136,Product,Holt-Winters (Log),11,19.07
+Furniture,Furniture_Item_137,Product,Holt-Winters (Log),15,37.89
+Furniture,Furniture_Item_138,Product,Holt-Winters (Log),0,8.12
+Furniture,Furniture_Item_140,Category,SARIMA,3,80.53
+Furniture,Furniture_Item_141,Product,Holt-Winters (Log),0,16.28
+Gardening,Gardening_Item_002,Category,SARIMA,30,83.24
+Gardening,Gardening_Item_003,Product,Holt-Winters (Log),2,13.72
+Gardening,Gardening_Item_005,Product,Holt-Winters (Log),18,32.03
+Gardening,Gardening_Item_006,Category,SARIMA,12,75.5
+Gardening,Gardening_Item_007,Product,Holt-Winters (Log),0,14.83
+Gardening,Gardening_Item_008,Product,Holt-Winters (Log),0,4.95
+Gardening,Gardening_Item_009,Product,Holt-Winters (Log),15,48.29
+Gardening,Gardening_Item_010,Product,Holt-Winters (Log),5,44.49
+Gardening,Gardening_Item_011,Category,SARIMA,16,50.32
+Gardening,Gardening_Item_012,Product,Holt-Winters (Log),4,22.23
+Gardening,Gardening_Item_013,Category,SARIMA,1,54.48
+Gardening,Gardening_Item_014,Product,Holt-Winters (Log),9,42.75
+Gardening,Gardening_Item_015,Category,SARIMA,16,99.07
+Gardening,Gardening_Item_016,Category,SARIMA,11,79.83
+Gardening,Gardening_Item_017,Product,Holt-Winters (Log),0,5.62
+Gardening,Gardening_Item_018,Category,SARIMA,4,52.54
+Gardening,Gardening_Item_019,Category,SARIMA,3,60.08
+Gardening,Gardening_Item_020,Category,SARIMA,22,59.67
+Gardening,Gardening_Item_021,Product,Holt-Winters (Log),0,7.97
+Gardening,Gardening_Item_022,Category,SARIMA,5,50.76
+Gardening,Gardening_Item_023,Product,Holt-Winters (Log),4,48.43
+Gardening,Gardening_Item_024,Category,SARIMA,22,67.43
+Gardening,Gardening_Item_025,Category,SARIMA,9,72.99
+Gardening,Gardening_Item_026,Product,Holt-Winters (Log),0,12.03
+Gardening,Gardening_Item_027,Category,SARIMA,19,76.0
+Gardening,Gardening_Item_028,Product,Holt-Winters (Log),0,5.65
+Gardening,Gardening_Item_029,Product,Holt-Winters (Log),4,37.58
+Gardening,Gardening_Item_030,Product,Holt-Winters (Log),8,47.19
+Gardening,Gardening_Item_032,Category,SARIMA,28,101.44
+Gardening,Gardening_Item_033,Category,SARIMA,15,78.96
+Gardening,Gardening_Item_034,Product,Holt-Winters (Log),15,33.93
+Gardening,Gardening_Item_035,Product,Holt-Winters (Log),6,12.39
+Gardening,Gardening_Item_036,Product,Holt-Winters (Log),5,18.85
+Gardening,Gardening_Item_037,Category,SARIMA,12,66.43
+Gardening,Gardening_Item_038,Category,SARIMA,30,125.76
+Gardening,Gardening_Item_039,Product,Holt-Winters (Log),0,6.84
+Gardening,Gardening_Item_040,Category,SARIMA,8,66.86
+Gardening,Gardening_Item_041,Product,Holt-Winters (Log),2,29.15
+Gardening,Gardening_Item_042,Category,SARIMA,29,112.08
+Gardening,Gardening_Item_043,Category,SARIMA,11,103.35
+Gardening,Gardening_Item_044,Product,Holt-Winters (Log),1,15.37
+Gardening,Gardening_Item_045,Product,Holt-Winters (Log),7,18.16
+Gardening,Gardening_Item_046,Category,SARIMA,25,125.86
+Gardening,Gardening_Item_048,Category,SARIMA,31,106.63
+Gardening,Gardening_Item_049,Category,SARIMA,29,132.64
+Gardening,Gardening_Item_050,Category,SARIMA,23,78.49
+Gardening,Gardening_Item_051,Category,SARIMA,15,65.2
+Gardening,Gardening_Item_054,Product,Holt-Winters (Log),16,47.12
+Gardening,Gardening_Item_055,Product,Holt-Winters (Log),20,27.36
+Gardening,Gardening_Item_056,Category,SARIMA,21,59.06
+Gardening,Gardening_Item_057,Category,SARIMA,23,102.41
+Gardening,Gardening_Item_058,Product,Holt-Winters (Log),17,46.03
+Gardening,Gardening_Item_059,Category,SARIMA,26,104.34
+Gardening,Gardening_Item_061,Product,Holt-Winters (Log),0,14.94
+Gardening,Gardening_Item_062,Category,SARIMA,10,63.59
+Gardening,Gardening_Item_063,Product,Holt-Winters (Log),10,29.79
+Gardening,Gardening_Item_065,Category,SARIMA,30,100.6
+Gardening,Gardening_Item_066,Category,SARIMA,19,91.29
+Gardening,Gardening_Item_067,Product,Holt-Winters (Log),4,28.14
+Gardening,Gardening_Item_070,Category,SARIMA,20,63.28
+Gardening,Gardening_Item_071,Category,SARIMA,31,103.15
+Gardening,Gardening_Item_072,Category,SARIMA,18,64.08
+Gardening,Gardening_Item_073,Product,Holt-Winters (Log),5,45.68
+Gardening,Gardening_Item_074,Product,Holt-Winters (Log),0,9.21
+Gardening,Gardening_Item_075,Product,Holt-Winters (Log),0,7.07
+Gardening,Gardening_Item_076,Category,SARIMA,25,123.72
+Gardening,Gardening_Item_077,Product,Holt-Winters (Log),9,45.48
+Gardening,Gardening_Item_078,Category,SARIMA,17,55.17
+Gardening,Gardening_Item_079,Category,SARIMA,22,84.09
+Gardening,Gardening_Item_081,Category,SARIMA,25,99.39
+Gardening,Gardening_Item_082,Category,SARIMA,16,107.58
+Gardening,Gardening_Item_083,Category,SARIMA,28,74.88
+Gardening,Gardening_Item_084,Product,Holt-Winters (Log),6,8.6
+Gardening,Gardening_Item_085,Product,Holt-Winters (Log),0,10.42
+Gardening,Gardening_Item_086,Product,Holt-Winters (Log),8,39.31
+Gardening,Gardening_Item_087,Category,SARIMA,12,58.93
+Gardening,Gardening_Item_088,Product,Holt-Winters (Log),3,13.89
+Gardening,Gardening_Item_089,Category,SARIMA,13,74.09
+Gardening,Gardening_Item_090,Product,Holt-Winters (Log),10,17.21
+Gardening,Gardening_Item_091,Product,Holt-Winters (Log),3,16.67
+Gardening,Gardening_Item_092,Product,Holt-Winters (Log),0,10.29
+Gardening,Gardening_Item_093,Product,Holt-Winters (Log),7,35.39
+Gardening,Gardening_Item_094,Category,SARIMA,18,84.48
+Gardening,Gardening_Item_095,Category,SARIMA,10,53.91
+Gardening,Gardening_Item_096,Product,Holt-Winters (Log),4,48.76
+Gardening,Gardening_Item_097,Category,SARIMA,33,177.36
+Gardening,Gardening_Item_098,Category,SARIMA,26,75.43
+Gardening,Gardening_Item_099,Category,SARIMA,27,79.67
+General_Merchandise,General_Merchandise_Item_001,Product,Holt-Winters (Log),0,3.34
+General_Merchandise,General_Merchandise_Item_002,Product,Holt-Winters (Log),0,1.62
+General_Merchandise,General_Merchandise_Item_003,Product,Holt-Winters (Log),1,11.28
+General_Merchandise,General_Merchandise_Item_004,Product,Holt-Winters (Log),0,2.55
+Hardware,Hardware_Item_001,Category,SARIMA,2,67.23
+Hardware,Hardware_Item_002,Category,SARIMA,29,115.04
+Hardware,Hardware_Item_003,Category,SARIMA,15,127.82
+Hardware,Hardware_Item_004,Product,Holt-Winters (Log),0,13.06
+Hardware,Hardware_Item_005,Category,SARIMA,18,53.98
+Hardware,Hardware_Item_006,Product,Holt-Winters (Log),0,15.91
+Hardware,Hardware_Item_007,Category,SARIMA,9,93.1
+Hardware,Hardware_Item_008,Product,Holt-Winters (Log),0,22.99
+Hardware,Hardware_Item_009,Product,Holt-Winters (Log),0,9.79
+Hardware,Hardware_Item_010,Category,SARIMA,27,106.3
+Hardware,Hardware_Item_011,Category,SARIMA,13,59.35
+Hardware,Hardware_Item_012,Product,Holt-Winters (Log),0,31.18
+Hardware,Hardware_Item_013,Category,SARIMA,12,89.0
+Hardware,Hardware_Item_014,Category,SARIMA,11,78.85
+Hardware,Hardware_Item_015,Product,Holt-Winters (Log),18,42.24
+Hardware,Hardware_Item_016,Product,Holt-Winters (Log),1,34.5
+Hardware,Hardware_Item_017,Category,SARIMA,21,63.16
+Hardware,Hardware_Item_018,Category,SARIMA,18,64.36
+Hardware,Hardware_Item_019,Category,SARIMA,13,72.25
+Hardware,Hardware_Item_020,Category,SARIMA,7,69.56
+Hardware,Hardware_Item_021,Product,Holt-Winters (Log),2,33.67
+Hardware,Hardware_Item_022,Category,SARIMA,15,86.07
+Hardware,Hardware_Item_023,Category,SARIMA,19,77.59
+Hardware,Hardware_Item_024,Category,SARIMA,29,102.62
+Hardware,Hardware_Item_025,Product,Holt-Winters (Log),0,36.27
+Hardware,Hardware_Item_026,Product,Holt-Winters (Log),0,25.99
+Hardware,Hardware_Item_027,Category,SARIMA,10,70.7
+Hardware,Hardware_Item_028,Product,Holt-Winters (Log),22,47.67
+Hardware,Hardware_Item_029,Category,SARIMA,7,58.92
+Hardware,Hardware_Item_030,Product,Holt-Winters (Log),1,19.38
+Hardware,Hardware_Item_031,Category,SARIMA,14,50.85
+Hardware,Hardware_Item_032,Category,SARIMA,35,136.49
+Hardware,Hardware_Item_033,Category,SARIMA,15,60.48
+Hardware,Hardware_Item_034,Category,SARIMA,17,119.94
+Hardware,Hardware_Item_035,Product,Holt-Winters (Log),12,48.68
+Hardware,Hardware_Item_036,Product,Holt-Winters (Log),13,38.0
+Hardware,Hardware_Item_037,Product,Holt-Winters (Log),6,49.53
+Hardware,Hardware_Item_038,Product,Holt-Winters (Log),6,18.82
+Hardware,Hardware_Item_039,Product,Holt-Winters (Log),7,45.6
+Hardware,Hardware_Item_040,Category,SARIMA,10,55.26
+Hardware,Hardware_Item_041,Category,SARIMA,4,51.63
+Hardware,Hardware_Item_042,Product,Holt-Winters (Log),2,35.93
+Hardware,Hardware_Item_044,Product,Holt-Winters (Log),5,39.92
+Healthcare,Healthcare_Item_008,Category,SARIMA,4,66.0
+Healthcare,Healthcare_Item_010,Product,Holt-Winters (Log),12,7.48
+Healthcare,Healthcare_Item_014,Category,SARIMA,2,inf
+Home_Appliances,Home_Appliances_Item_001,Category,SARIMA,13,66.8
+Home_Appliances,Home_Appliances_Item_002,Category,SARIMA,14,66.39
+Home_Appliances,Home_Appliances_Item_003,Product,Holt-Winters (Log),3,13.66
+Home_Appliances,Home_Appliances_Item_004,Category,SARIMA,8,56.73
+Home_Appliances,Home_Appliances_Item_006,Product,Holt-Winters (Log),1,8.44
+Home_Appliances,Home_Appliances_Item_007,Product,Holt-Winters (Log),9,47.31
+Home_Appliances,Home_Appliances_Item_008,Product,Holt-Winters (Log),2,4.96
+Home_Appliances,Home_Appliances_Item_009,Product,Holt-Winters (Log),0,3.96
+Home_Appliances,Home_Appliances_Item_010,Product,Holt-Winters (Log),0,5.01
+Home_Appliances,Home_Appliances_Item_011,Product,Holt-Winters (Log),0,8.02
+Home_Appliances,Home_Appliances_Item_012,Product,Holt-Winters (Log),0,5.56
+Home_Appliances,Home_Appliances_Item_013,Product,Holt-Winters (Log),0,7.46
+Home_Appliances,Home_Appliances_Item_014,Product,Holt-Winters (Log),11,29.31
+Home_Appliances,Home_Appliances_Item_015,Product,Holt-Winters (Log),0,5.49
+Home_Appliances,Home_Appliances_Item_016,Product,Holt-Winters (Log),0,3.24
+Home_Appliances,Home_Appliances_Item_017,Product,Holt-Winters (Log),0,9.41
+Home_Appliances,Home_Appliances_Item_018,Product,Holt-Winters (Log),3,36.24
+Home_Appliances,Home_Appliances_Item_019,Product,Holt-Winters (Log),3,30.63
+Home_Appliances,Home_Appliances_Item_020,Product,Holt-Winters (Log),1,14.84
+Home_Appliances,Home_Appliances_Item_021,Product,Holt-Winters (Log),10,33.19
+Home_Appliances,Home_Appliances_Item_022,Product,Holt-Winters (Log),0,21.05
+Home_Appliances,Home_Appliances_Item_023,Product,Holt-Winters (Log),3,24.48
+Home_Appliances,Home_Appliances_Item_024,Product,Holt-Winters (Log),5,46.1
+Home_Appliances,Home_Appliances_Item_025,Product,Holt-Winters (Log),4,47.2
+Home_Appliances,Home_Appliances_Item_026,Product,Holt-Winters (Log),9,18.79
+Home_Appliances,Home_Appliances_Item_027,Product,Holt-Winters (Log),15,48.06
+Home_Appliances,Home_Appliances_Item_028,Product,Holt-Winters (Log),0,12.56
+Home_Appliances,Home_Appliances_Item_029,Product,Holt-Winters (Log),3,6.87
+Home_Appliances,Home_Appliances_Item_030,Product,Holt-Winters (Log),1,6.69
+Home_Appliances,Home_Appliances_Item_031,Product,Holt-Winters (Log),1,10.8
+Home_Appliances,Home_Appliances_Item_032,Product,Holt-Winters (Log),0,11.0
+Home_Appliances,Home_Appliances_Item_033,Category,SARIMA,23,81.43
+Home_Appliances,Home_Appliances_Item_034,Product,Holt-Winters (Log),0,8.41
+Home_Appliances,Home_Appliances_Item_035,Product,Holt-Winters (Log),0,5.66
+Home_Appliances,Home_Appliances_Item_036,Product,Holt-Winters (Log),2,15.64
+Home_Appliances,Home_Appliances_Item_037,Product,Holt-Winters (Log),0,8.9
+Home_Appliances,Home_Appliances_Item_038,Product,Holt-Winters (Log),0,5.28
+Home_Appliances,Home_Appliances_Item_039,Product,Holt-Winters (Log),1,17.83
+Home_Appliances,Home_Appliances_Item_040,Product,Holt-Winters (Log),0,7.39
+Home_Appliances,Home_Appliances_Item_041,Product,Holt-Winters (Log),1,12.14
+Home_Appliances,Home_Appliances_Item_042,Product,Holt-Winters (Log),1,8.22
+Home_Appliances,Home_Appliances_Item_043,Product,Holt-Winters (Log),0,1.56
+Home_Appliances,Home_Appliances_Item_044,Category,SARIMA,20,84.5
+Home_Appliances,Home_Appliances_Item_045,Product,Holt-Winters (Log),0,4.59
+Home_Appliances,Home_Appliances_Item_046,Product,Holt-Winters (Log),0,3.73
+Home_Appliances,Home_Appliances_Item_047,Product,Holt-Winters (Log),0,3.95
+Home_Appliances,Home_Appliances_Item_048,Product,Holt-Winters (Log),0,11.47
+Home_Appliances,Home_Appliances_Item_049,Product,Holt-Winters (Log),6,23.17
+Home_Appliances,Home_Appliances_Item_050,Category,SARIMA,26,115.21
+Home_Appliances,Home_Appliances_Item_051,Product,Holt-Winters (Log),5,22.6
+Home_Appliances,Home_Appliances_Item_052,Product,Holt-Winters (Log),0,9.77
+Home_Appliances,Home_Appliances_Item_053,Product,Holt-Winters (Log),6,27.2
+Home_Appliances,Home_Appliances_Item_054,Product,Holt-Winters (Log),23,20.42
+Home_Appliances,Home_Appliances_Item_055,Product,Holt-Winters (Log),3,7.86
+Home_Appliances,Home_Appliances_Item_056,Category,SARIMA,16,60.7
+Home_Appliances,Home_Appliances_Item_057,Category,SARIMA,19,101.79
+Home_Appliances,Home_Appliances_Item_058,Product,Holt-Winters (Log),14,44.28
+Home_Appliances,Home_Appliances_Item_059,Product,Holt-Winters (Log),3,10.12
+Home_Appliances,Home_Appliances_Item_060,Product,Holt-Winters (Log),1,45.38
+Home_Appliances,Home_Appliances_Item_063,Product,Holt-Winters (Log),5,34.6
+Home_Appliances,Home_Appliances_Item_065,Product,Holt-Winters (Log),0,6.28
+Home_Appliances,Home_Appliances_Item_067,Category,SARIMA,13,55.64
+Home_Appliances,Home_Appliances_Item_070,Product,Holt-Winters (Log),0,11.07
+Home_Appliances,Home_Appliances_Item_071,Product,Holt-Winters (Log),4,22.17
+Home_Appliances,Home_Appliances_Item_072,Category,SARIMA,14,104.87
+Home_Appliances,Home_Appliances_Item_073,Product,Holt-Winters (Log),1,16.07
+Home_Appliances,Home_Appliances_Item_074,Product,Holt-Winters (Log),0,19.11
+Home_Appliances,Home_Appliances_Item_075,Category,SARIMA,17,61.67
+Home_Appliances,Home_Appliances_Item_076,Category,SARIMA,33,96.2
+Home_Appliances,Home_Appliances_Item_077,Product,Holt-Winters (Log),1,15.74
+Home_Appliances,Home_Appliances_Item_078,Product,Holt-Winters (Log),6,10.23
+Home_Appliances,Home_Appliances_Item_079,Product,Holt-Winters (Log),0,10.13
+Home_Appliances,Home_Appliances_Item_080,Product,Holt-Winters (Log),4,21.16
+Home_Appliances,Home_Appliances_Item_081,Product,Holt-Winters (Log),13,49.03
+Home_Appliances,Home_Appliances_Item_082,Product,Holt-Winters (Log),9,20.26
+Home_Appliances,Home_Appliances_Item_083,Product,Holt-Winters (Log),12,37.73
+Home_Appliances,Home_Appliances_Item_084,Product,Holt-Winters (Log),0,2.72
+Home_Appliances,Home_Appliances_Item_085,Product,Holt-Winters (Log),0,8.2
+Home_Appliances,Home_Appliances_Item_086,Product,Holt-Winters (Log),0,4.5
+Home_Appliances,Home_Appliances_Item_087,Product,Holt-Winters (Log),0,7.27
+Home_Appliances,Home_Appliances_Item_088,Category,SARIMA,23,107.84
+Home_Appliances,Home_Appliances_Item_089,Category,SARIMA,31,64.77
+Home_Appliances,Home_Appliances_Item_090,Category,SARIMA,34,114.71
+Home_Appliances,Home_Appliances_Item_091,Product,Holt-Winters (Log),1,7.57
+Home_Appliances,Home_Appliances_Item_092,Product,Holt-Winters (Log),11,37.95
+Home_Appliances,Home_Appliances_Item_093,Product,Holt-Winters (Log),2,14.08
+Home_Appliances,Home_Appliances_Item_094,Product,Holt-Winters (Log),0,1.2
+Home_Appliances,Home_Appliances_Item_095,Product,Holt-Winters (Log),9,29.31
+Home_Appliances,Home_Appliances_Item_096,Product,Holt-Winters (Log),0,8.06
+Home_Appliances,Home_Appliances_Item_097,Product,Holt-Winters (Log),1,48.35
+Home_Appliances,Home_Appliances_Item_098,Product,Holt-Winters (Log),1,10.73
+Home_Appliances,Home_Appliances_Item_100,Category,SARIMA,14,81.23
+Home_Appliances,Home_Appliances_Item_101,Category,SARIMA,18,73.01
+Home_Appliances,Home_Appliances_Item_102,Product,Holt-Winters (Log),0,5.28
+Home_Appliances,Home_Appliances_Item_103,Category,SARIMA,6,55.75
+Home_Appliances,Home_Appliances_Item_104,Product,Holt-Winters (Log),2,40.95
+Home_Appliances,Home_Appliances_Item_105,Product,Holt-Winters (Log),2,48.2
+Home_Appliances,Home_Appliances_Item_106,Product,Holt-Winters (Log),8,42.61
+Home_Appliances,Home_Appliances_Item_107,Category,SARIMA,19,98.99
+Home_Appliances,Home_Appliances_Item_108,Product,Holt-Winters (Log),8,25.68
+Home_Appliances,Home_Appliances_Item_109,Product,Holt-Winters (Log),7,39.09
+Home_Appliances,Home_Appliances_Item_110,Product,Holt-Winters (Log),14,37.62
+Home_Appliances,Home_Appliances_Item_111,Product,Holt-Winters (Log),7,36.5
+Home_Appliances,Home_Appliances_Item_112,Product,Holt-Winters (Log),5,26.03
+Kitchenware,Kitchenware_Item_001,Product,Holt-Winters (Log),2,47.14
+Kitchenware,Kitchenware_Item_002,Category,SARIMA,15,98.62
+Kitchenware,Kitchenware_Item_003,Category,SARIMA,7,59.77
+Kitchenware,Kitchenware_Item_004,Category,SARIMA,1,52.89
+Kitchenware,Kitchenware_Item_005,Category,SARIMA,5,84.58
+Kitchenware,Kitchenware_Item_006,Category,SARIMA,3,57.53
+Kitchenware,Kitchenware_Item_007,Product,Holt-Winters (Log),0,39.05
+Lighting,Lighting_Item_001,Category,SARIMA,8,50.7
+Lighting,Lighting_Item_002,Category,SARIMA,20,124.3
+Lighting,Lighting_Item_003,Product,Holt-Winters (Log),0,8.13
+Lighting,Lighting_Item_004,Product,Holt-Winters (Log),0,24.32
+Lighting,Lighting_Item_005,Product,Holt-Winters (Log),1,42.61
+Lighting,Lighting_Item_006,Product,Holt-Winters (Log),5,31.73
+Medicine,Medicine_Item_002,Category,SARIMA,32,154.6
+Medicine,Medicine_Item_004,Category,SARIMA,4,55.78
+Medicine,Medicine_Item_005,Product,Holt-Winters (Log),0,14.78
+Medicine,Medicine_Item_006,Product,Holt-Winters (Log),1,18.92
+Medicine,Medicine_Item_007,Category,SARIMA,18,76.25
+Medicine,Medicine_Item_008,Product,Holt-Winters (Log),1,23.63
+Medicine,Medicine_Item_009,Category,SARIMA,16,101.48
+Medicine,Medicine_Item_010,Product,Holt-Winters (Log),3,31.53
+Medicine,Medicine_Item_011,Product,Holt-Winters (Log),0,15.27
+Medicine,Medicine_Item_012,Product,Holt-Winters (Log),0,11.54
+Medicine,Medicine_Item_013,Product,Holt-Winters (Log),0,21.24
+Mobile_Devices,Mobile_Devices_Item_001,Product,Holt-Winters (Log),0,17.42
+Personal_Care,Personal_Care_Item_001,Category,SARIMA,10,62.78
+Personal_Care,Personal_Care_Item_002,Product,Holt-Winters (Log),5,33.61
+Personal_Care,Personal_Care_Item_003,Category,SARIMA,20,83.35
+Personal_Care,Personal_Care_Item_004,Product,Holt-Winters (Log),8,31.44
+Personal_Care,Personal_Care_Item_005,Product,Holt-Winters (Log),0,28.39
+Personal_Care,Personal_Care_Item_006,Category,SARIMA,9,77.04
+Personal_Care,Personal_Care_Item_007,Product,Holt-Winters (Log),0,26.24
+Personal_Care,Personal_Care_Item_008,Product,Holt-Winters (Log),3,45.3
+Personal_Care,Personal_Care_Item_009,Product,Holt-Winters (Log),1,16.23
+Personal_Care,Personal_Care_Item_010,Product,Holt-Winters (Log),0,20.46
+Personal_Care,Personal_Care_Item_011,Category,SARIMA,4,50.17
+Personal_Care,Personal_Care_Item_013,Product,Holt-Winters (Log),4,43.5
+Personal_Care,Personal_Care_Item_014,Product,Holt-Winters (Log),1,47.48
+Personal_Care,Personal_Care_Item_015,Product,Holt-Winters (Log),6,30.16
+Personal_Care,Personal_Care_Item_016,Product,Holt-Winters (Log),0,11.78
+Personal_Care,Personal_Care_Item_017,Product,Holt-Winters (Log),6,36.47
+Personal_Care,Personal_Care_Item_018,Category,SARIMA,3,54.08
+Personal_Care,Personal_Care_Item_019,Product,Holt-Winters (Log),0,20.57
+Personal_Care,Personal_Care_Item_020,Product,Holt-Winters (Log),0,29.52
+Personal_Care,Personal_Care_Item_021,Category,SARIMA,13,84.45
+Personal_Care,Personal_Care_Item_022,Product,Holt-Winters (Log),0,22.58
+Personal_Care,Personal_Care_Item_023,Category,SARIMA,11,66.63
+Personal_Care,Personal_Care_Item_024,Product,Holt-Winters (Log),16,35.06
+Personal_Care,Personal_Care_Item_025,Product,Holt-Winters (Log),1,21.82
+Personal_Care,Personal_Care_Item_026,Product,Holt-Winters (Log),0,4.79
+Personal_Care,Personal_Care_Item_027,Product,Holt-Winters (Log),0,13.51
+Personal_Care,Personal_Care_Item_028,Product,Holt-Winters (Log),0,25.06
+Personal_Care,Personal_Care_Item_029,Product,Holt-Winters (Log),0,19.73
+Personal_Care,Personal_Care_Item_030,Product,Holt-Winters (Log),1,45.08
+Personal_Care,Personal_Care_Item_031,Category,SARIMA,4,62.46
+Personal_Care,Personal_Care_Item_032,Product,Holt-Winters (Log),0,26.7
+Personal_Care,Personal_Care_Item_033,Product,Holt-Winters (Log),0,23.04
+Personal_Care,Personal_Care_Item_034,Product,Holt-Winters (Log),0,10.86
+Personal_Care,Personal_Care_Item_035,Category,SARIMA,22,115.19
+Personal_Care,Personal_Care_Item_036,Product,Holt-Winters (Log),15,40.44
+Personal_Care,Personal_Care_Item_037,Product,Holt-Winters (Log),1,40.29
+Personal_Care,Personal_Care_Item_038,Category,SARIMA,23,87.03
+Personal_Care,Personal_Care_Item_039,Product,Holt-Winters (Log),0,8.31
+Personal_Care,Personal_Care_Item_040,Category,SARIMA,20,79.87
+Personal_Care,Personal_Care_Item_041,Category,SARIMA,8,64.66
+Personal_Care,Personal_Care_Item_042,Category,SARIMA,21,111.69
+Personal_Care,Personal_Care_Item_043,Product,Holt-Winters (Log),6,28.2
+Personal_Care,Personal_Care_Item_044,Category,SARIMA,13,70.8
+Personal_Care,Personal_Care_Item_045,Category,SARIMA,4,54.67
+Personal_Care,Personal_Care_Item_046,Product,Holt-Winters (Log),5,15.56
+Personal_Care,Personal_Care_Item_047,Product,Holt-Winters (Log),0,22.39
+Personal_Care,Personal_Care_Item_048,Category,SARIMA,15,58.77
+Personal_Care,Personal_Care_Item_049,Category,SARIMA,26,108.68
+Personal_Care,Personal_Care_Item_050,Category,SARIMA,17,56.43
+Personal_Care,Personal_Care_Item_051,Product,Holt-Winters (Log),3,21.82
+Personal_Care,Personal_Care_Item_052,Category,SARIMA,6,61.96
+Personal_Care,Personal_Care_Item_053,Category,SARIMA,6,55.59
+Personal_Care,Personal_Care_Item_054,Product,Holt-Winters (Log),0,13.15
+Personal_Care,Personal_Care_Item_055,Product,Holt-Winters (Log),0,18.64
+Personal_Care,Personal_Care_Item_056,Product,Holt-Winters (Log),0,6.9
+Personal_Care,Personal_Care_Item_057,Product,Holt-Winters (Log),15,48.14
+Personal_Care,Personal_Care_Item_059,Product,Holt-Winters (Log),3,20.59
+Pet_Supplies,Pet_Supplies_Item_001,Product,Holt-Winters (Log),2,30.87
+Pet_Supplies,Pet_Supplies_Item_002,Product,Holt-Winters (Log),5,38.81
+Pet_Supplies,Pet_Supplies_Item_003,Product,Holt-Winters (Log),8,32.7
+Pet_Supplies,Pet_Supplies_Item_004,Product,Holt-Winters (Log),5,40.4
+Snacks,Snacks_Item_001,Category,SARIMA,23,85.61
+Snacks,Snacks_Item_002,Product,Holt-Winters (Log),0,21.02
+Snacks,Snacks_Item_003,Product,Holt-Winters (Log),0,10.59
+Snacks,Snacks_Item_004,Product,Holt-Winters (Log),9,43.78
+Snacks,Snacks_Item_005,Category,SARIMA,9,60.51
+Snacks,Snacks_Item_006,Product,Holt-Winters (Log),0,13.06
+Snacks,Snacks_Item_007,Product,Holt-Winters (Log),2,38.12
+Snacks,Snacks_Item_008,Product,Holt-Winters (Log),0,32.97
+Snacks,Snacks_Item_009,Product,Holt-Winters (Log),3,43.25
+Snacks,Snacks_Item_010,Product,Holt-Winters (Log),3,14.53
+Snacks,Snacks_Item_011,Category,SARIMA,24,80.41
+Snacks,Snacks_Item_012,Product,Holt-Winters (Log),0,18.23
+Snacks,Snacks_Item_013,Category,SARIMA,28,118.17
+Snacks,Snacks_Item_014,Product,Holt-Winters (Log),0,4.95
+Snacks,Snacks_Item_015,Product,Holt-Winters (Log),5,18.92
+Snacks,Snacks_Item_016,Product,Holt-Winters (Log),0,3.13
+Snacks,Snacks_Item_017,Product,Holt-Winters (Log),0,5.28
+Snacks,Snacks_Item_018,Product,Holt-Winters (Log),1,13.89
+Snacks,Snacks_Item_019,Category,SARIMA,6,50.78
+Snacks,Snacks_Item_020,Product,Holt-Winters (Log),0,2.86
+Snacks,Snacks_Item_021,Product,Holt-Winters (Log),0,6.95
+Snacks,Snacks_Item_022,Product,Holt-Winters (Log),0,8.11
+Snacks,Snacks_Item_023,Product,Holt-Winters (Log),0,4.47
+Snacks,Snacks_Item_024,Product,Holt-Winters (Log),10,44.11
+Snacks,Snacks_Item_025,Product,Holt-Winters (Log),0,5.27
+Snacks,Snacks_Item_026,Product,Holt-Winters (Log),1,10.12
+Snacks,Snacks_Item_027,Product,Holt-Winters (Log),0,5.36
+Snacks,Snacks_Item_028,Product,Holt-Winters (Log),2,18.79
+Snacks,Snacks_Item_029,Category,SARIMA,24,83.1
+Snacks,Snacks_Item_030,Product,Holt-Winters (Log),0,4.86
+Snacks,Snacks_Item_031,Category,SARIMA,29,101.28
+Snacks,Snacks_Item_032,Product,Holt-Winters (Log),1,15.62
+Snacks,Snacks_Item_033,Category,SARIMA,7,87.67
+Snacks,Snacks_Item_034,Product,Holt-Winters (Log),0,11.86
+Snacks,Snacks_Item_035,Product,Holt-Winters (Log),3,26.74
+Snacks,Snacks_Item_036,Product,Holt-Winters (Log),0,10.3
+Snacks,Snacks_Item_037,Category,SARIMA,10,51.49
+Snacks,Snacks_Item_038,Product,Holt-Winters (Log),11,38.82
+Snacks,Snacks_Item_039,Product,Holt-Winters (Log),0,4.36
+Snacks,Snacks_Item_040,Category,SARIMA,24,129.84
+Snacks,Snacks_Item_041,Product,Holt-Winters (Log),0,16.89
+Snacks,Snacks_Item_042,Product,Holt-Winters (Log),0,12.85
+Snacks,Snacks_Item_043,Category,SARIMA,22,75.69
+Snacks,Snacks_Item_044,Product,Holt-Winters (Log),3,49.38
+Snacks,Snacks_Item_046,Category,SARIMA,26,118.41
+Snacks,Snacks_Item_047,Category,SARIMA,10,55.16
+Snacks,Snacks_Item_048,Product,Holt-Winters (Log),0,7.02
+Snacks,Snacks_Item_049,Product,Holt-Winters (Log),0,6.89
+Snacks,Snacks_Item_050,Product,Holt-Winters (Log),0,16.49
+Snacks,Snacks_Item_051,Product,Holt-Winters (Log),2,18.44
+Snacks,Snacks_Item_052,Product,Holt-Winters (Log),0,6.41
+Snacks,Snacks_Item_053,Product,Holt-Winters (Log),8,35.14
+Snacks,Snacks_Item_054,Category,SARIMA,12,76.62
+Snacks,Snacks_Item_055,Category,SARIMA,3,67.24
+Snacks,Snacks_Item_056,Category,SARIMA,30,113.79
+Snacks,Snacks_Item_057,Product,Holt-Winters (Log),0,20.26
+Sports,Sports_Item_001,Product,Holt-Winters (Log),4,12.62
+Sports,Sports_Item_002,Product,Holt-Winters (Log),4,11.46
+Sports,Sports_Item_003,Product,Holt-Winters (Log),7,41.43
+Sports,Sports_Item_004,Category,SARIMA,14,89.86
+Sports,Sports_Item_005,Product,Holt-Winters (Log),9,48.37
+Sports,Sports_Item_006,Product,Holt-Winters (Log),7,20.44
+Sports,Sports_Item_007,Product,Holt-Winters (Log),12,37.24
+Sports,Sports_Item_008,Product,Holt-Winters (Log),11,48.57
+Sports,Sports_Item_009,Product,Holt-Winters (Log),10,20.89
+Sports,Sports_Item_010,Product,Holt-Winters (Log),3,17.84
+Sports,Sports_Item_011,Product,Holt-Winters (Log),0,6.07
+Sports,Sports_Item_012,Product,Holt-Winters (Log),0,5.09
+Sports,Sports_Item_013,Product,Holt-Winters (Log),0,12.33
+Sports,Sports_Item_014,Product,Holt-Winters (Log),0,9.14
+Sports,Sports_Item_015,Category,SARIMA,12,96.05
+Sports,Sports_Item_016,Product,Holt-Winters (Log),1,7.84
+Sports,Sports_Item_017,Product,Holt-Winters (Log),15,17.01
+Sports,Sports_Item_018,Product,Holt-Winters (Log),0,4.24
+Sports,Sports_Item_019,Product,Holt-Winters (Log),0,3.45
+Sports,Sports_Item_021,Category,SARIMA,5,53.71
+Sports,Sports_Item_022,Product,Holt-Winters (Log),1,16.62
+Sports,Sports_Item_023,Category,SARIMA,31,108.82
+Sports,Sports_Item_024,Category,SARIMA,12,70.35
+Sports,Sports_Item_025,Product,Holt-Winters (Log),5,20.49
+Sports,Sports_Item_026,Product,Holt-Winters (Log),1,41.19
+Sports,Sports_Item_027,Product,Holt-Winters (Log),0,9.07
+Sports,Sports_Item_028,Product,Holt-Winters (Log),5,18.0
+Sports,Sports_Item_029,Product,Holt-Winters (Log),0,4.99
+Sports,Sports_Item_030,Product,Holt-Winters (Log),0,3.11
+Sports,Sports_Item_031,Product,Holt-Winters (Log),0,10.38
+Sports,Sports_Item_032,Product,Holt-Winters (Log),0,10.86
+Sports,Sports_Item_033,Product,Holt-Winters (Log),0,10.54
+Sports,Sports_Item_034,Product,Holt-Winters (Log),0,6.42
+Sports,Sports_Item_035,Product,Holt-Winters (Log),21,40.38
+Sports,Sports_Item_036,Product,Holt-Winters (Log),0,6.15
+Sports,Sports_Item_037,Product,Holt-Winters (Log),5,22.11
+Sports,Sports_Item_038,Category,SARIMA,22,65.34
+Sports,Sports_Item_040,Product,Holt-Winters (Log),1,6.87
+Sports,Sports_Item_041,Product,Holt-Winters (Log),0,5.68
+Sports,Sports_Item_042,Product,Holt-Winters (Log),0,9.65
+Sports,Sports_Item_044,Product,Holt-Winters (Log),7,40.4
+Sports,Sports_Item_045,Product,Holt-Winters (Log),1,6.7
+Sports,Sports_Item_046,Product,Holt-Winters (Log),1,16.32
+Sports,Sports_Item_047,Category,SARIMA,15,59.92
+Sports,Sports_Item_048,Product,Holt-Winters (Log),3,30.09
+Sports,Sports_Item_049,Product,Holt-Winters (Log),6,19.56
+Sports,Sports_Item_050,Product,Holt-Winters (Log),2,12.87
+Sports,Sports_Item_051,Product,Holt-Winters (Log),9,34.74
+Sports,Sports_Item_052,Product,Holt-Winters (Log),18,40.38
+Sports,Sports_Item_053,Product,Holt-Winters (Log),0,7.41
+Sports,Sports_Item_054,Product,Holt-Winters (Log),1,10.45
+Sports,Sports_Item_055,Product,Holt-Winters (Log),0,3.58
+Sports,Sports_Item_056,Product,Holt-Winters (Log),0,2.82
+Sports,Sports_Item_057,Product,Holt-Winters (Log),0,6.09
+Sports,Sports_Item_058,Product,Holt-Winters (Log),0,4.77
+Sports,Sports_Item_059,Product,Holt-Winters (Log),2,44.03
+Sports,Sports_Item_060,Category,SARIMA,12,50.47
+Sports,Sports_Item_061,Product,Holt-Winters (Log),1,8.08
+Sports,Sports_Item_062,Category,SARIMA,7,54.56
+Sports,Sports_Item_063,Product,Holt-Winters (Log),6,29.14
+Sports,Sports_Item_064,Product,Holt-Winters (Log),0,8.38
+Sports,Sports_Item_065,Product,Holt-Winters (Log),2,24.09
+Sports,Sports_Item_066,Product,Holt-Winters (Log),4,43.42
+Sports,Sports_Item_067,Product,Holt-Winters (Log),5,40.09
+Sports,Sports_Item_068,Product,Holt-Winters (Log),0,6.5
+Sports,Sports_Item_069,Category,SARIMA,30,98.3
+Sports,Sports_Item_070,Product,Holt-Winters (Log),0,5.76
+Sports,Sports_Item_071,Product,Holt-Winters (Log),0,6.51
+Sports,Sports_Item_072,Category,SARIMA,15,81.03
+Sports,Sports_Item_073,Product,Holt-Winters (Log),0,8.06
+Sports,Sports_Item_074,Category,SARIMA,29,107.5
+Sports,Sports_Item_075,Product,Holt-Winters (Log),0,13.1
+Sports,Sports_Item_076,Category,SARIMA,9,59.16
+Sports,Sports_Item_077,Product,Holt-Winters (Log),1,33.51
+Sports,Sports_Item_078,Product,Holt-Winters (Log),1,20.8
+Sports,Sports_Item_081,Category,SARIMA,4,50.4
+Sports,Sports_Item_082,Product,Holt-Winters (Log),2,15.9
+Sports,Sports_Item_083,Product,Holt-Winters (Log),5,15.96
+Sports,Sports_Item_084,Product,Holt-Winters (Log),5,24.86
+Sports,Sports_Item_085,Category,SARIMA,19,69.47
+Sports,Sports_Item_086,Product,Holt-Winters (Log),23,46.6
+Sports,Sports_Item_087,Category,SARIMA,20,103.78
+Sports,Sports_Item_088,Product,Holt-Winters (Log),1,9.76
+Sports,Sports_Item_089,Product,Holt-Winters (Log),10,13.95
+Sports,Sports_Item_090,Category,SARIMA,12,63.37
+Sports,Sports_Item_091,Category,SARIMA,9,61.79
+Sports,Sports_Item_092,Category,SARIMA,10,58.01
+Sports,Sports_Item_094,Category,SARIMA,31,161.66
+Sports,Sports_Item_095,Product,Holt-Winters (Log),2,14.27
+Sports,Sports_Item_096,Product,Holt-Winters (Log),10,30.73
+Sports,Sports_Item_097,Category,SARIMA,27,131.13
+Sports,Sports_Item_098,Product,Holt-Winters (Log),8,28.62
+Sports,Sports_Item_099,Category,SARIMA,24,70.34
+Sports,Sports_Item_100,Product,Holt-Winters (Log),2,5.79
+Sports,Sports_Item_102,Product,Holt-Winters (Log),0,10.44
+Sports,Sports_Item_103,Product,Holt-Winters (Log),0,7.23
+Sports,Sports_Item_104,Product,Holt-Winters (Log),0,5.78
+Sports,Sports_Item_105,Product,Holt-Winters (Log),0,10.96
+Sports,Sports_Item_106,Category,SARIMA,12,55.94
+Sports,Sports_Item_107,Product,Holt-Winters (Log),0,10.75
+Sports,Sports_Item_108,Product,Holt-Winters (Log),3,22.59
+Sports,Sports_Item_109,Product,Holt-Winters (Log),0,5.84
+Sports,Sports_Item_110,Product,Holt-Winters (Log),0,14.79
+Sports,Sports_Item_111,Product,Holt-Winters (Log),0,12.79
+Sports,Sports_Item_112,Product,Holt-Winters (Log),2,17.49
+Sports,Sports_Item_113,Category,SARIMA,36,195.91
+Sports,Sports_Item_114,Category,SARIMA,19,65.26
+Sports,Sports_Item_115,Category,SARIMA,10,71.11
+Sports,Sports_Item_116,Product,Holt-Winters (Log),2,23.56
+Sports,Sports_Item_117,Product,Holt-Winters (Log),0,8.94
+Sports,Sports_Item_118,Product,Holt-Winters (Log),4,20.49
+Sports,Sports_Item_119,Category,SARIMA,24,58.73
+Sports,Sports_Item_120,Product,Holt-Winters (Log),2,41.56
+Sports,Sports_Item_121,Product,Holt-Winters (Log),0,3.92
+Sports,Sports_Item_122,Category,SARIMA,6,53.61
+Sports,Sports_Item_123,Product,Holt-Winters (Log),5,48.86
+Sports,Sports_Item_124,Product,Holt-Winters (Log),0,4.2
+Sports,Sports_Item_125,Product,Holt-Winters (Log),4,47.56
+Sports,Sports_Item_126,Product,Holt-Winters (Log),10,29.68
+Sports,Sports_Item_127,Product,Holt-Winters (Log),0,4.8
+Sports,Sports_Item_128,Product,Holt-Winters (Log),0,3.22
+Sports,Sports_Item_129,Product,Holt-Winters (Log),3,33.7
+Sports,Sports_Item_130,Product,Holt-Winters (Log),0,3.17
+Sports,Sports_Item_131,Product,Holt-Winters (Log),2,45.25
+Sports,Sports_Item_132,Product,Holt-Winters (Log),0,7.59
+Sports,Sports_Item_133,Product,Holt-Winters (Log),1,9.18
+Sports,Sports_Item_134,Product,Holt-Winters (Log),3,12.5
+Sports,Sports_Item_135,Product,Holt-Winters (Log),5,13.75
+Sports,Sports_Item_136,Product,Holt-Winters (Log),10,37.84
+Sports,Sports_Item_137,Product,Holt-Winters (Log),20,32.68
+Sports,Sports_Item_138,Product,Holt-Winters (Log),2,21.4
+Sports,Sports_Item_139,Product,Holt-Winters (Log),1,12.89
+Sports,Sports_Item_140,Product,Holt-Winters (Log),0,3.69
+Sports,Sports_Item_141,Category,SARIMA,14,71.77
+Sports,Sports_Item_142,Product,Holt-Winters (Log),0,8.0
+Sports,Sports_Item_143,Product,Holt-Winters (Log),0,6.73
+Sports,Sports_Item_144,Category,SARIMA,33,123.52
+Sports,Sports_Item_145,Product,Holt-Winters (Log),0,3.64
+Sports,Sports_Item_146,Product,Holt-Winters (Log),0,3.94
+Sports,Sports_Item_147,Product,Holt-Winters (Log),0,13.1
+Sports,Sports_Item_148,Product,Holt-Winters (Log),0,7.78
+Sports,Sports_Item_149,Product,Holt-Winters (Log),0,6.61
+Sports,Sports_Item_150,Product,Holt-Winters (Log),0,7.06
+Sports,Sports_Item_151,Product,Holt-Winters (Log),1,15.03
+Sports,Sports_Item_152,Product,Holt-Winters (Log),0,2.43
+Sports,Sports_Item_153,Product,Holt-Winters (Log),0,8.14
+Sports,Sports_Item_154,Product,Holt-Winters (Log),0,2.4
+Sports,Sports_Item_155,Product,Holt-Winters (Log),0,12.52
+Sports,Sports_Item_156,Product,Holt-Winters (Log),0,0.91
+Sports,Sports_Item_157,Category,SARIMA,12,61.23
+Sports,Sports_Item_158,Product,Holt-Winters (Log),8,37.77
+Sports,Sports_Item_159,Category,SARIMA,0,inf
+Sports,Sports_Item_160,Product,Holt-Winters (Log),0,12.43
+Sports,Sports_Item_161,Product,Holt-Winters (Log),6,31.15
+Sports,Sports_Item_162,Product,Holt-Winters (Log),0,8.41
+Sports,Sports_Item_163,Product,Holt-Winters (Log),0,4.99
+Sports,Sports_Item_164,Product,Holt-Winters (Log),0,7.2
+Sports,Sports_Item_165,Product,Holt-Winters (Log),0,5.75
+Sports,Sports_Item_166,Product,Holt-Winters (Log),12,48.99
+Sports,Sports_Item_167,Product,Holt-Winters (Log),11,47.16
+Sports,Sports_Item_168,Product,Holt-Winters (Log),0,2.47
+Sports,Sports_Item_169,Product,Holt-Winters (Log),0,4.01
+Sports,Sports_Item_170,Product,Holt-Winters (Log),1,26.94
+Sports,Sports_Item_171,Product,Holt-Winters (Log),1,37.79
+Sports,Sports_Item_172,Product,Holt-Winters (Log),0,6.05
+Sports,Sports_Item_173,Product,Holt-Winters (Log),10,22.75
+Sports,Sports_Item_174,Product,Holt-Winters (Log),0,10.05
+Sports,Sports_Item_175,Product,Holt-Winters (Log),0,2.95
+Sports,Sports_Item_176,Product,Holt-Winters (Log),0,7.03
+Sports,Sports_Item_177,Category,SARIMA,3,52.66
+Sports,Sports_Item_178,Product,Holt-Winters (Log),0,4.56
+Sports,Sports_Item_179,Product,Holt-Winters (Log),0,10.99
+Sports,Sports_Item_180,Product,Holt-Winters (Log),0,12.41
+Sports,Sports_Item_181,Product,Holt-Winters (Log),0,6.92
+Sports,Sports_Item_182,Product,Holt-Winters (Log),0,6.2
+Sports,Sports_Item_183,Product,Holt-Winters (Log),12,38.5
+Sports,Sports_Item_184,Product,Holt-Winters (Log),0,2.02
+Sports,Sports_Item_185,Product,Holt-Winters (Log),0,6.73
+Sports,Sports_Item_186,Product,Holt-Winters (Log),2,16.93
+Sports,Sports_Item_187,Product,Holt-Winters (Log),0,6.56
+Sports,Sports_Item_188,Category,SARIMA,4,59.77
+Sports,Sports_Item_189,Product,Holt-Winters (Log),0,4.87
+Sports,Sports_Item_190,Product,Holt-Winters (Log),1,15.05
+Sports,Sports_Item_191,Product,Holt-Winters (Log),0,1.55
+Sports,Sports_Item_192,Product,Holt-Winters (Log),0,1.82
+Sports,Sports_Item_193,Product,Holt-Winters (Log),1,20.37
+Sports,Sports_Item_194,Product,Holt-Winters (Log),0,3.56
+Sports,Sports_Item_195,Product,Holt-Winters (Log),0,2.82
+Sports,Sports_Item_196,Product,Holt-Winters (Log),3,24.97
+Sports,Sports_Item_197,Category,SARIMA,10,75.81
+Sports,Sports_Item_198,Product,Holt-Winters (Log),0,19.03
+Sports,Sports_Item_199,Product,Holt-Winters (Log),0,1.31
+Sports,Sports_Item_200,Product,Holt-Winters (Log),0,0.96
+Sports,Sports_Item_201,Product,Holt-Winters (Log),2,14.29
+Sports,Sports_Item_202,Product,Holt-Winters (Log),0,5.08
+Sports,Sports_Item_203,Product,Holt-Winters (Log),1,36.98
+Sports,Sports_Item_204,Product,Holt-Winters (Log),0,4.17
+Sports,Sports_Item_205,Product,Holt-Winters (Log),0,12.65
+Sports,Sports_Item_206,Product,Holt-Winters (Log),0,11.8
+Sports,Sports_Item_208,Product,Holt-Winters (Log),0,5.54
+Sports,Sports_Item_209,Product,Holt-Winters (Log),0,7.19
+Sports,Sports_Item_210,Product,Holt-Winters (Log),0,6.79
+Sports,Sports_Item_211,Product,Holt-Winters (Log),0,7.29
+Sports,Sports_Item_212,Product,Holt-Winters (Log),0,7.76
+Sports,Sports_Item_213,Product,Holt-Winters (Log),0,8.56
+Sports,Sports_Item_214,Product,Holt-Winters (Log),0,3.26
+Sports,Sports_Item_215,Product,Holt-Winters (Log),2,15.52
+Sports,Sports_Item_216,Category,SARIMA,14,78.3
+Sports,Sports_Item_217,Product,Holt-Winters (Log),0,2.94
+Sports,Sports_Item_218,Product,Holt-Winters (Log),0,15.01
+Sports,Sports_Item_219,Product,Holt-Winters (Log),0,2.87
+Sports,Sports_Item_220,Product,Holt-Winters (Log),0,2.35
+Sports,Sports_Item_221,Product,Holt-Winters (Log),0,8.43
+Sports,Sports_Item_246,Product,Holt-Winters (Log),0,3.6
+Sports,Sports_Item_247,Product,Holt-Winters (Log),0,21.61
+Sports,Sports_Item_248,Category,SARIMA,4,62.41
+Sports,Sports_Item_249,Product,Holt-Winters (Log),0,3.84
+Sports,Sports_Item_250,Product,Holt-Winters (Log),0,7.67
+Sports,Sports_Item_251,Product,Holt-Winters (Log),0,7.12
+Sports,Sports_Item_253,Product,Holt-Winters (Log),0,13.5
+Sports,Sports_Item_254,Product,Holt-Winters (Log),0,4.26
+Sports,Sports_Item_255,Product,Holt-Winters (Log),0,0.88
+Sports,Sports_Item_256,Product,Holt-Winters (Log),1,18.82
+Sports,Sports_Item_257,Product,Holt-Winters (Log),7,13.61
+Sports,Sports_Item_258,Product,Holt-Winters (Log),16,21.12
+Sports,Sports_Item_259,Product,Holt-Winters (Log),1,17.45
+Sports,Sports_Item_260,Product,Holt-Winters (Log),0,20.57
+Sports,Sports_Item_261,Product,Holt-Winters (Log),0,15.69
+Sports,Sports_Item_262,Product,Holt-Winters (Log),0,3.81
+Sports,Sports_Item_263,Product,Holt-Winters (Log),6,28.67
+Sports,Sports_Item_264,Product,Holt-Winters (Log),0,11.33
+Sports,Sports_Item_265,Product,Holt-Winters (Log),0,1.34
+Sports,Sports_Item_266,Category,SARIMA,18,75.9
+Sports,Sports_Item_267,Product,Holt-Winters (Log),0,22.9
+Sports,Sports_Item_269,Product,Holt-Winters (Log),0,3.24
+Sports,Sports_Item_270,Product,Holt-Winters (Log),0,3.4
+Sports,Sports_Item_271,Product,Holt-Winters (Log),0,3.59
+Sports,Sports_Item_272,Product,Holt-Winters (Log),8,27.4
+Sports,Sports_Item_273,Product,Holt-Winters (Log),0,9.29
+Sports,Sports_Item_274,Product,Holt-Winters (Log),0,2.64
+Sports,Sports_Item_275,Category,SARIMA,0,inf
+Sports,Sports_Item_276,Product,Holt-Winters (Log),0,3.81
+Sports,Sports_Item_277,Product,Holt-Winters (Log),0,4.05
+Sports,Sports_Item_279,Product,Holt-Winters (Log),0,1.19
+Sports,Sports_Item_280,Product,Holt-Winters (Log),0,0.99
+Sports,Sports_Item_281,Category,SARIMA,8,50.06
+Sports,Sports_Item_282,Product,Holt-Winters (Log),0,3.35
+Sports,Sports_Item_283,Product,Holt-Winters (Log),0,2.09
+Sports,Sports_Item_284,Product,Holt-Winters (Log),0,0.82
+Sports,Sports_Item_285,Product,Holt-Winters (Log),0,2.18
+Sports,Sports_Item_286,Product,Holt-Winters (Log),1,12.18
+Sports,Sports_Item_287,Product,Holt-Winters (Log),0,8.67
+Sports,Sports_Item_288,Product,Holt-Winters (Log),10,28.78
+Sports,Sports_Item_289,Product,Holt-Winters (Log),0,4.83
+Sports,Sports_Item_290,Product,Holt-Winters (Log),0,5.37
+Sports,Sports_Item_291,Product,Holt-Winters (Log),0,7.55
+Sports,Sports_Item_292,Product,Holt-Winters (Log),7,27.26
+Sports,Sports_Item_293,Product,Holt-Winters (Log),0,2.61
+Sports,Sports_Item_294,Product,Holt-Winters (Log),0,2.25
+Sports,Sports_Item_295,Product,Holt-Winters (Log),0,2.94
+Sports,Sports_Item_296,Product,Holt-Winters (Log),0,3.52
+Sports,Sports_Item_297,Category,SARIMA,12,55.83
+Sports,Sports_Item_298,Product,Holt-Winters (Log),0,5.66
+Sports,Sports_Item_299,Product,Holt-Winters (Log),0,15.55
+Sports,Sports_Item_300,Product,Holt-Winters (Log),0,6.84
+Sports,Sports_Item_301,Product,Holt-Winters (Log),0,5.78
+Sports,Sports_Item_302,Product,Holt-Winters (Log),0,14.23
+Sports,Sports_Item_303,Product,Holt-Winters (Log),0,1.7
+Sports,Sports_Item_304,Product,Holt-Winters (Log),0,5.94
+Sports,Sports_Item_305,Product,Holt-Winters (Log),0,3.56
+Sports,Sports_Item_306,Product,Holt-Winters (Log),0,6.67
+Sports,Sports_Item_307,Category,SARIMA,23,145.82
+Sports,Sports_Item_308,Category,SARIMA,33,135.39
+Sports,Sports_Item_309,Product,Holt-Winters (Log),0,9.85
+Sports,Sports_Item_310,Product,Holt-Winters (Log),6,24.84
+Sports,Sports_Item_311,Product,Holt-Winters (Log),0,3.03
+Sports,Sports_Item_312,Product,Holt-Winters (Log),0,1.07
+Sports,Sports_Item_313,Product,Holt-Winters (Log),5,7.56
+Sports,Sports_Item_314,Product,Holt-Winters (Log),13,45.92
+Sports,Sports_Item_315,Product,Holt-Winters (Log),4,41.98
+Sports,Sports_Item_316,Category,SARIMA,0,inf
+Sports,Sports_Item_317,Product,Holt-Winters (Log),0,10.09
+Sports,Sports_Item_318,Product,Holt-Winters (Log),0,6.05
+Sports,Sports_Item_319,Product,Holt-Winters (Log),0,8.57
+Sports,Sports_Item_320,Product,Holt-Winters (Log),0,3.82
+Sports,Sports_Item_321,Product,Holt-Winters (Log),0,3.57
+Sports,Sports_Item_322,Product,Holt-Winters (Log),0,6.66
+Sports,Sports_Item_323,Product,Holt-Winters (Log),0,4.46
+Sports,Sports_Item_324,Product,Holt-Winters (Log),0,3.89
+Sports,Sports_Item_325,Product,Holt-Winters (Log),0,4.99
+Sports,Sports_Item_326,Product,Holt-Winters (Log),0,7.25
+Sports,Sports_Item_327,Product,Holt-Winters (Log),2,21.81
+Sports,Sports_Item_328,Category,SARIMA,6,62.93
+Sports,Sports_Item_329,Product,Holt-Winters (Log),0,5.66
+Sports,Sports_Item_330,Product,Holt-Winters (Log),9,39.35
+Sports,Sports_Item_331,Product,Holt-Winters (Log),0,2.55
+Sports,Sports_Item_332,Product,Holt-Winters (Log),0,2.56
+Sports,Sports_Item_333,Product,Holt-Winters (Log),0,1.7
+Sports,Sports_Item_334,Product,Holt-Winters (Log),0,5.52
+Sports,Sports_Item_335,Category,SARIMA,8,70.0
+Sports,Sports_Item_336,Category,SARIMA,19,72.24
+Sports,Sports_Item_337,Product,Holt-Winters (Log),0,4.28
+Sports,Sports_Item_338,Product,Holt-Winters (Log),0,4.01
+Sports,Sports_Item_339,Product,Holt-Winters (Log),0,10.56
+Sports,Sports_Item_340,Product,Holt-Winters (Log),0,9.25
+Sports,Sports_Item_341,Product,Holt-Winters (Log),0,1.47
+Sports,Sports_Item_342,Product,Holt-Winters (Log),0,6.09
+Sports,Sports_Item_343,Product,Holt-Winters (Log),12,38.4
+Sports,Sports_Item_344,Product,Holt-Winters (Log),5,9.38
+Sports,Sports_Item_345,Product,Holt-Winters (Log),4,22.89
+Sports,Sports_Item_346,Category,SARIMA,22,73.37
+Sports,Sports_Item_347,Category,SARIMA,11,74.3
+Sports,Sports_Item_348,Product,Holt-Winters (Log),23,22.07
+Sports,Sports_Item_349,Product,Holt-Winters (Log),1,12.79
+Sports,Sports_Item_350,Product,Holt-Winters (Log),12,44.49
+Sports,Sports_Item_351,Category,SARIMA,16,82.61
+Sports,Sports_Item_352,Product,Holt-Winters (Log),0,1.98
+Sports,Sports_Item_353,Product,Holt-Winters (Log),0,21.33
+Sports,Sports_Item_354,Product,Holt-Winters (Log),0,0.7
+Sports,Sports_Item_355,Product,Holt-Winters (Log),0,14.71
+Sports,Sports_Item_356,Product,Holt-Winters (Log),0,4.94
+Sports,Sports_Item_357,Product,Holt-Winters (Log),0,1.54
+Sports,Sports_Item_358,Product,Holt-Winters (Log),0,0.76
+Sports,Sports_Item_359,Product,Holt-Winters (Log),0,7.76
+Sports,Sports_Item_360,Product,Holt-Winters (Log),0,2.52
+Sports,Sports_Item_361,Product,Holt-Winters (Log),0,2.82
+Sports,Sports_Item_362,Product,Holt-Winters (Log),0,11.47
+Sports,Sports_Item_363,Product,Holt-Winters (Log),0,5.63
+Sports,Sports_Item_364,Category,SARIMA,26,98.11
+Sports,Sports_Item_365,Product,Holt-Winters (Log),0,2.43
+Sports,Sports_Item_366,Product,Holt-Winters (Log),0,3.4
+Sports,Sports_Item_367,Product,Holt-Winters (Log),0,4.73
+Sports,Sports_Item_368,Product,Holt-Winters (Log),0,9.68
+Sports,Sports_Item_369,Product,Holt-Winters (Log),0,5.4
+Sports,Sports_Item_370,Product,Holt-Winters (Log),0,5.19
+Sports,Sports_Item_371,Product,Holt-Winters (Log),0,2.58
+Sports,Sports_Item_372,Product,Holt-Winters (Log),0,4.04
+Sports,Sports_Item_373,Product,Holt-Winters (Log),4,43.72
+Sports,Sports_Item_375,Product,Holt-Winters (Log),0,7.09
+Sports,Sports_Item_376,Product,Holt-Winters (Log),4,38.93
+Sports,Sports_Item_377,Product,Holt-Winters (Log),3,23.86
+Sports,Sports_Item_378,Category,SARIMA,6,63.55
+Sports,Sports_Item_379,Product,Holt-Winters (Log),0,8.82
+Sports,Sports_Item_380,Product,Holt-Winters (Log),0,2.29
+Sports,Sports_Item_381,Product,Holt-Winters (Log),0,2.89
+Sports,Sports_Item_382,Product,Holt-Winters (Log),0,4.58
+Sports,Sports_Item_383,Product,Holt-Winters (Log),1,10.49
+Sports,Sports_Item_384,Product,Holt-Winters (Log),0,6.83
+Sports,Sports_Item_386,Category,SARIMA,18,68.34
+Sports,Sports_Item_387,Product,Holt-Winters (Log),0,7.77
+Sports,Sports_Item_388,Product,Holt-Winters (Log),8,39.82
+Sports,Sports_Item_389,Category,SARIMA,20,93.96
+Sports,Sports_Item_390,Category,SARIMA,20,86.98
+Sports,Sports_Item_391,Product,Holt-Winters (Log),6,38.94
+Sports,Sports_Item_392,Product,Holt-Winters (Log),0,9.48
+Sports,Sports_Item_393,Product,Holt-Winters (Log),5,22.23
+Sports,Sports_Item_394,Product,Holt-Winters (Log),0,3.51
+Sports,Sports_Item_395,Product,Holt-Winters (Log),0,2.26
+Sports,Sports_Item_396,Product,Holt-Winters (Log),4,17.02
+Sports,Sports_Item_397,Product,Holt-Winters (Log),0,6.2
+Sports,Sports_Item_398,Product,Holt-Winters (Log),0,14.79
+Sports,Sports_Item_399,Category,SARIMA,14,55.19
+Sports,Sports_Item_400,Category,SARIMA,15,50.53
+Sports,Sports_Item_401,Product,Holt-Winters (Log),1,22.59
+Sports,Sports_Item_402,Product,Holt-Winters (Log),1,14.29
+Sports,Sports_Item_403,Product,Holt-Winters (Log),0,5.23
+Sports,Sports_Item_404,Product,Holt-Winters (Log),0,4.75
+Sports,Sports_Item_405,Product,Holt-Winters (Log),0,7.45
+Sports,Sports_Item_406,Product,Holt-Winters (Log),1,8.57
+Sports,Sports_Item_407,Product,Holt-Winters (Log),2,19.71
+Sports,Sports_Item_408,Product,Holt-Winters (Log),7,29.57
+Sports,Sports_Item_409,Product,Holt-Winters (Log),7,19.31
+Sports,Sports_Item_410,Product,Holt-Winters (Log),0,5.67
+Sports,Sports_Item_411,Product,Holt-Winters (Log),0,6.68
+Sports,Sports_Item_412,Category,SARIMA,6,53.53
+Sports,Sports_Item_413,Product,Holt-Winters (Log),6,39.07
+Sports,Sports_Item_414,Product,Holt-Winters (Log),0,1.15
+Sports,Sports_Item_415,Product,Holt-Winters (Log),0,3.64
+Sports,Sports_Item_417,Product,Holt-Winters (Log),0,7.22
+Sports,Sports_Item_418,Product,Holt-Winters (Log),11,13.88
+Sports,Sports_Item_419,Category,SARIMA,17,89.8
+Sports,Sports_Item_420,Product,Holt-Winters (Log),0,4.8
+Sports,Sports_Item_421,Product,Holt-Winters (Log),0,4.28
+Sports,Sports_Item_422,Product,Holt-Winters (Log),0,3.31
+Sports,Sports_Item_423,Product,Holt-Winters (Log),6,9.21
+Sports,Sports_Item_424,Product,Holt-Winters (Log),7,10.33
+Sports,Sports_Item_425,Product,Holt-Winters (Log),8,12.02
+Sports,Sports_Item_426,Category,SARIMA,29,53.3
+Sports,Sports_Item_428,Product,Holt-Winters (Log),0,2.15
+Sports,Sports_Item_429,Product,Holt-Winters (Log),1,12.1
+Sports,Sports_Item_430,Category,SARIMA,12,63.0
+Sports,Sports_Item_431,Product,Holt-Winters (Log),3,18.41
+Sports,Sports_Item_432,Product,Holt-Winters (Log),0,6.16
+Sports,Sports_Item_433,Product,Holt-Winters (Log),2,26.57
+Sports,Sports_Item_434,Product,Holt-Winters (Log),0,5.85
+Sports,Sports_Item_435,Category,SARIMA,13,56.24
+Sports,Sports_Item_436,Product,Holt-Winters (Log),7,31.58
+Sports,Sports_Item_437,Product,Holt-Winters (Log),0,12.49
+Sports,Sports_Item_438,Product,Holt-Winters (Log),6,16.7
+Sports,Sports_Item_439,Category,SARIMA,10,66.84
+Sports,Sports_Item_440,Category,SARIMA,2,63.6
+Sports,Sports_Item_441,Product,Holt-Winters (Log),0,4.66
+Sports,Sports_Item_442,Product,Holt-Winters (Log),0,5.74
+Sports,Sports_Item_443,Product,Holt-Winters (Log),0,7.53
+Sports,Sports_Item_444,Product,Holt-Winters (Log),4,7.36
+Sports,Sports_Item_445,Product,Holt-Winters (Log),4,26.14
+Sports,Sports_Item_446,Product,Holt-Winters (Log),7,46.18
+Sports,Sports_Item_447,Product,Holt-Winters (Log),12,38.14
+Sports,Sports_Item_448,Product,Holt-Winters (Log),4,15.27
+Sports,Sports_Item_449,Category,SARIMA,8,87.51
+Sports,Sports_Item_450,Product,Holt-Winters (Log),0,5.7
+Sports,Sports_Item_451,Category,SARIMA,24,98.8
+Sports,Sports_Item_452,Product,Holt-Winters (Log),0,6.84
+Sports,Sports_Item_453,Category,SARIMA,22,56.48
+Sports,Sports_Item_454,Category,SARIMA,18,90.92
+Sports,Sports_Item_455,Product,Holt-Winters (Log),0,7.28
+Sports,Sports_Item_456,Product,Holt-Winters (Log),0,1.47
+Sports,Sports_Item_457,Product,Holt-Winters (Log),0,1.02
+Sports,Sports_Item_458,Product,Holt-Winters (Log),0,2.65
+Sports,Sports_Item_459,Category,SARIMA,9,56.95
+Sports,Sports_Item_461,Category,SARIMA,20,87.29
+Sports,Sports_Item_462,Product,Holt-Winters (Log),0,6.25
+Sports,Sports_Item_463,Category,SARIMA,28,64.69
+Sports,Sports_Item_464,Product,Holt-Winters (Log),4,36.85
+Sports,Sports_Item_465,Product,Holt-Winters (Log),3,10.97
+Sports,Sports_Item_466,Category,SARIMA,5,55.18
+Sports,Sports_Item_467,Product,Holt-Winters (Log),2,16.11
+Sports,Sports_Item_468,Category,SARIMA,8,68.6
+Sports,Sports_Item_469,Product,Holt-Winters (Log),0,5.5
+Sports,Sports_Item_470,Category,SARIMA,19,87.37
+Sports,Sports_Item_471,Product,Holt-Winters (Log),4,13.33
+Sports,Sports_Item_472,Product,Holt-Winters (Log),0,1.56
+Sports,Sports_Item_473,Product,Holt-Winters (Log),2,11.27
+Sports,Sports_Item_474,Product,Holt-Winters (Log),5,46.12
+Sports,Sports_Item_475,Product,Holt-Winters (Log),21,20.93
+Sports,Sports_Item_476,Product,Holt-Winters (Log),0,3.36
+Sports,Sports_Item_477,Category,SARIMA,18,50.61
+Sports,Sports_Item_479,Category,SARIMA,16,93.96
+Sports,Sports_Item_480,Category,SARIMA,12,110.31
+Sports,Sports_Item_481,Category,SARIMA,20,70.75
+Sports,Sports_Item_483,Product,Holt-Winters (Log),0,4.86
+Sports,Sports_Item_484,Product,Holt-Winters (Log),0,6.48
+Sports,Sports_Item_485,Product,Holt-Winters (Log),0,10.05
+Sports,Sports_Item_486,Product,Holt-Winters (Log),1,10.67
+Sports,Sports_Item_487,Category,SARIMA,34,139.95
+Sports,Sports_Item_488,Product,Holt-Winters (Log),0,9.46
+Sports,Sports_Item_489,Product,Holt-Winters (Log),12,35.96
+Sports,Sports_Item_490,Product,Holt-Winters (Log),4,23.59
+Sports,Sports_Item_491,Product,Holt-Winters (Log),0,6.19
+Sports,Sports_Item_492,Product,Holt-Winters (Log),0,15.81
+Sports,Sports_Item_493,Product,Holt-Winters (Log),11,37.45
+Sports,Sports_Item_494,Product,Holt-Winters (Log),3,25.56
+Sports,Sports_Item_495,Product,Holt-Winters (Log),1,6.05
+Sports,Sports_Item_496,Category,SARIMA,12,71.06
+Sports,Sports_Item_497,Product,Holt-Winters (Log),0,4.37
+Sports,Sports_Item_498,Product,Holt-Winters (Log),0,6.32
+Sports,Sports_Item_499,Product,Holt-Winters (Log),0,8.98
+Sports,Sports_Item_500,Product,Holt-Winters (Log),0,13.21
+Sports,Sports_Item_501,Product,Holt-Winters (Log),0,9.78
+Sports,Sports_Item_502,Product,Holt-Winters (Log),4,10.49
+Sports,Sports_Item_503,Product,Holt-Winters (Log),4,49.75
+Sports,Sports_Item_504,Product,Holt-Winters (Log),7,26.15
+Sports,Sports_Item_505,Product,Holt-Winters (Log),0,18.15
+Sports,Sports_Item_506,Product,Holt-Winters (Log),0,1.54
+Sports,Sports_Item_507,Category,SARIMA,14,112.2
+Sports,Sports_Item_508,Product,Holt-Winters (Log),6,37.09
+Sports,Sports_Item_509,Product,Holt-Winters (Log),2,21.55
+Sports,Sports_Item_510,Product,Holt-Winters (Log),16,38.26
+Sports,Sports_Item_511,Product,Holt-Winters (Log),0,4.21
+Sports,Sports_Item_512,Product,Holt-Winters (Log),0,20.74
+Sports,Sports_Item_513,Category,SARIMA,7,66.18
+Sports,Sports_Item_514,Product,Holt-Winters (Log),1,5.45
+Sports,Sports_Item_515,Category,SARIMA,17,83.53
+Sports,Sports_Item_516,Product,Holt-Winters (Log),1,6.49
+Sports,Sports_Item_517,Product,Holt-Winters (Log),0,14.6
+Sports,Sports_Item_518,Product,Holt-Winters (Log),0,5.18
+Sports,Sports_Item_519,Product,Holt-Winters (Log),0,8.64
+Sports,Sports_Item_520,Category,SARIMA,31,107.64
+Sports,Sports_Item_521,Product,Holt-Winters (Log),0,23.89
+Sports,Sports_Item_522,Product,Holt-Winters (Log),1,13.51
+Sports,Sports_Item_523,Product,Holt-Winters (Log),0,9.31
+Sports,Sports_Item_524,Product,Holt-Winters (Log),8,31.57
+Sports,Sports_Item_525,Product,Holt-Winters (Log),2,18.25
+Sports,Sports_Item_526,Product,Holt-Winters (Log),0,4.89
+Sports,Sports_Item_527,Product,Holt-Winters (Log),1,12.05
+Sports,Sports_Item_528,Product,Holt-Winters (Log),2,5.46
+Sports,Sports_Item_529,Product,Holt-Winters (Log),0,2.49
+Sports,Sports_Item_530,Product,Holt-Winters (Log),0,5.21
+Sports,Sports_Item_531,Product,Holt-Winters (Log),0,6.55
+Sports,Sports_Item_532,Product,Holt-Winters (Log),2,15.0
+Sports,Sports_Item_533,Product,Holt-Winters (Log),2,10.58
+Toys,Toys_Item_001,Product,Holt-Winters (Log),4,35.27
+Toys,Toys_Item_002,Product,Holt-Winters (Log),11,43.31
+Toys,Toys_Item_003,Product,Holt-Winters (Log),8,33.65
+Toys,Toys_Item_004,Product,Holt-Winters (Log),0,34.29
+Toys,Toys_Item_005,Product,Holt-Winters (Log),2,41.43
+Toys,Toys_Item_006,Product,Holt-Winters (Log),0,15.78
+Toys,Toys_Item_007,Category,SARIMA,12,101.42
+Toys,Toys_Item_008,Category,SARIMA,7,72.94
+Toys,Toys_Item_009,Product,Holt-Winters (Log),0,13.88
+Toys,Toys_Item_010,Category,SARIMA,29,180.47
+Toys,Toys_Item_011,Product,Holt-Winters (Log),0,10.42
+Toys,Toys_Item_012,Category,SARIMA,19,101.65
+Toys,Toys_Item_013,Product,Holt-Winters (Log),1,22.57
+Toys,Toys_Item_014,Product,Holt-Winters (Log),7,32.72
+Toys,Toys_Item_015,Category,SARIMA,14,65.66
+Travel_Accessories,Travel_Accessories_Item_001,Product,Holt-Winters (Log),1,12.36
+Travel_Accessories,Travel_Accessories_Item_002,Product,Holt-Winters (Log),3,43.54
+Travel_Accessories,Travel_Accessories_Item_004,Product,Holt-Winters (Log),0,7.68
+Travel_Accessories,Travel_Accessories_Item_005,Product,Holt-Winters (Log),0,6.83
+Travel_Accessories,Travel_Accessories_Item_006,Category,SARIMA,20,68.67
+Travel_Accessories,Travel_Accessories_Item_007,Product,Holt-Winters (Log),0,4.51
+Travel_Accessories,Travel_Accessories_Item_008,Category,SARIMA,8,59.06
+Travel_Accessories,Travel_Accessories_Item_009,Product,Holt-Winters (Log),0,9.86
+Travel_Accessories,Travel_Accessories_Item_010,Product,Holt-Winters (Log),0,18.96
+Travel_Accessories,Travel_Accessories_Item_011,Category,SARIMA,27,64.2
+Travel_Accessories,Travel_Accessories_Item_012,Category,SARIMA,16,58.68
+Travel_Accessories,Travel_Accessories_Item_013,Category,SARIMA,17,85.01
+Travel_Accessories,Travel_Accessories_Item_014,Category,SARIMA,12,75.1
+Travel_Accessories,Travel_Accessories_Item_015,Category,SARIMA,30,79.15
+Travel_Accessories,Travel_Accessories_Item_016,Product,Holt-Winters (Log),0,14.2
+Travel_Accessories,Travel_Accessories_Item_017,Product,Holt-Winters (Log),0,5.86
+Travel_Accessories,Travel_Accessories_Item_018,Product,Holt-Winters (Log),13,39.97
+Travel_Accessories,Travel_Accessories_Item_019,Category,SARIMA,18,97.95
+Travel_Accessories,Travel_Accessories_Item_020,Product,Holt-Winters (Log),3,43.38
+Travel_Accessories,Travel_Accessories_Item_021,Category,SARIMA,21,85.46
+Travel_Accessories,Travel_Accessories_Item_022,Product,Holt-Winters (Log),0,18.18
+Travel_Accessories,Travel_Accessories_Item_023,Category,SARIMA,6,71.62
+Travel_Accessories,Travel_Accessories_Item_024,Product,Holt-Winters (Log),4,13.21
+Travel_Accessories,Travel_Accessories_Item_025,Category,SARIMA,7,70.96
+Travel_Accessories,Travel_Accessories_Item_026,Category,SARIMA,20,104.97
+Travel_Accessories,Travel_Accessories_Item_027,Product,Holt-Winters (Log),0,34.36
+Travel_Accessories,Travel_Accessories_Item_028,Category,SARIMA,11,63.77
+Travel_Accessories,Travel_Accessories_Item_029,Category,SARIMA,22,97.72
+Travel_Accessories,Travel_Accessories_Item_030,Product,Holt-Winters (Log),7,27.61
+Travel_Accessories,Travel_Accessories_Item_031,Product,Holt-Winters (Log),4,23.46
+Travel_Accessories,Travel_Accessories_Item_032,Product,Holt-Winters (Log),1,13.32
+Travel_Accessories,Travel_Accessories_Item_033,Product,Holt-Winters (Log),2,26.25
+Travel_Accessories,Travel_Accessories_Item_034,Product,Holt-Winters (Log),0,18.0
+Travel_Accessories,Travel_Accessories_Item_035,Product,Holt-Winters (Log),4,25.55
+Travel_Accessories,Travel_Accessories_Item_036,Product,Holt-Winters (Log),3,23.95
+Travel_Accessories,Travel_Accessories_Item_037,Product,Holt-Winters (Log),2,29.16
+Travel_Accessories,Travel_Accessories_Item_038,Product,Holt-Winters (Log),14,33.93
+Travel_Accessories,Travel_Accessories_Item_039,Product,Holt-Winters (Log),5,15.06
+Travel_Accessories,Travel_Accessories_Item_040,Product,Holt-Winters (Log),4,30.12
+Travel_Accessories,Travel_Accessories_Item_041,Category,SARIMA,30,99.77
+Travel_Accessories,Travel_Accessories_Item_042,Product,Holt-Winters (Log),3,37.78
+Travel_Accessories,Travel_Accessories_Item_043,Product,Holt-Winters (Log),14,33.53
+Travel_Accessories,Travel_Accessories_Item_044,Product,Holt-Winters (Log),7,34.78
+Travel_Accessories,Travel_Accessories_Item_045,Category,SARIMA,14,80.01
+Travel_Accessories,Travel_Accessories_Item_046,Category,SARIMA,20,104.16
+Travel_Accessories,Travel_Accessories_Item_047,Product,Holt-Winters (Log),17,48.95
+Travel_Accessories,Travel_Accessories_Item_048,Category,SARIMA,21,98.06
+Travel_Accessories,Travel_Accessories_Item_049,Product,Holt-Winters (Log),3,15.83
